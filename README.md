@@ -2,7 +2,8 @@
 
 This Web-page contains a category-wise collection of **AI papers, blogs, code, and repos**.
 
-[👉 Follow me on LinkedIn](https://www.linkedin.com/in/bhoop-singh-gurjar-%F0%9F%87%AE%F0%9F%87%B3-3b41b41a9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWPIV8Cs4SKKY%2F1tK%2By7ozw%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/Bhoop%20Singh%20Gurjar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhoop-singh-gurjar-%F0%9F%87%AE%F0%9F%87%B3-3b41b41a9)
+
 
 ---
 
