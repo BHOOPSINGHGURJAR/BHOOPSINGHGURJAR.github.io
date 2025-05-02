@@ -24,7 +24,8 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 | 📄 [Summarization](#-summarization) | 🖼️ [Computer Vision](#-computer-vision) | 🧾 [Image Classification](#-image-classification) |
 | 🎯 [Object Detection](#-object-detection) | 🧩 [Segmentation](#-segmentation) | 🕺 [Pose Estimation](#-pose-estimation) |
 | 🎮 [Reinforcement Learning](#-reinforcement-learning) | 🧠 [Policy Optimization](#-policy-optimization) | ⚡ [Q-Learning](#-q-learning) |
-| 🤝 [Multi-Agent RL](#-multi-agent-rl) | 🌍 [Pytorch](#-pytorch) | ⚠️[Karpathy](#karpathy) | ☠️[How To Make LLM](#how-to-make-llm)|
+| 🤝 [Multi-Agent RL](#-multi-agent-rl) | 🌍 [Pytorch](#-pytorch) | ⚠️[Karpathy](#karpathy) | 
+| ☠️[How To Make LLM](#how-to-make-llm)|
 
 ---
 
