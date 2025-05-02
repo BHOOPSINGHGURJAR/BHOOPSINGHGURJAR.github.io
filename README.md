@@ -16,6 +16,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 
 ---
+More comming soon..
 
 ## 🏆Deep Learning
 
@@ -416,4 +417,4 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 
 
-**More coming soon... **
+
