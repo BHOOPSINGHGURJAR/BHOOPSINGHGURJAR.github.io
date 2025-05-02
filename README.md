@@ -4,7 +4,7 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 
 <div align="left">
   <a href="linkedin.com/in/bhoop-singh-gurjar-🇮🇳-3b41b41a9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Bhoop Singh Gurjar&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=BhoopSinghGurjar&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 ###  
