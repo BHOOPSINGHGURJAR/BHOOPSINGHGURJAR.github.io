@@ -27,7 +27,7 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 | 📄 [Summarization](#-summarization) | 🖼️ [Computer Vision](#-computer-vision) | 🧾 [Image Classification](#-image-classification) |
 | 🎯 [Object Detection](#-object-detection) | 🧩 [Segmentation](#-segmentation) | 🕺 [Pose Estimation](#-pose-estimation) |
 | 🎮 [Reinforcement Learning](#-reinforcement-learning) | 🧠 [Policy Optimization](#-policy-optimization) | ⚡ [Q-Learning](#-q-learning) |
-| 🤝 [Multi-Agent RL](#-multi-agent-rl) | 🌍 [Pytorch](#-pytorch) | |
+| 🤝 [Multi-Agent RL](#-multi-agent-rl) | 🌍 [Pytorch](#-pytorch) | ⚠️[Karpathy](#-karpathy) |
 
 ---
 
@@ -139,3 +139,30 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 | 15 | LLM VISUALIZATION                                                        | [Link](https://bbycroft.net/llm) |
 | 16 | LLM course - huggingface                                                 | [Link](https://huggingface.co/learn/llm-course/chapter1/1) |
 | 17 | Neural Networks: Zero to Hero                                            | [Link](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |
+
+
+## ⚠️ Karpathy
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |   Blog       | [Link](https://karpathy.github.io/) |
+|2   |Neural Networks: Zero to Hero      | [Link](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=Wy41HIVOqmGAhad_)|
+|3  |CS231n Winter 2016 |[Link](https://youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&si=N-FLNkPVE9ddnxX5)|
+|4 |CS231n: Convolutional Neural Networks for Visual Recognition |[Link](https://cs231n.stanford.edu/2016/)|
+|5 | EurekaLabsAI |[Link](https://github.com/EurekaLabsAI)|
+|6 | Github |[Link](https://github.com/karpathy) |
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+coming soon...
