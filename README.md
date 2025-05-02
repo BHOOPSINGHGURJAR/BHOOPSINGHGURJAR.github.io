@@ -7,16 +7,18 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 ---
 ## 🚀Quick Links
 
-| Category                           | Category                                | Category                               | Category                             |
-|------------------------------------|-----------------------------------------|----------------------------------------|--------------------------------------|
-| 🧠 [LLM Architectures](#llm-architectures) | 🔥 [Machine Learning](#machine-learning) | ✍️ [GPUs](#gpu)                        | 📗 [RLHF](#rlhf)                    |
-| 🔗 [Chain of Thought](#chain-of-thought)  | 🔍 [AI Math](#ai-math)                 | 🐭 [ML](#machine-learning)             | 🏆 [Deep Learning](#deep-learning) |
-| 🧩 [NLP](#nlp)                     | 🖼️ [Computer Vision](#computer-vision)  | 🎮 [Reinforcement Learning](#reinforcement-learning) | 🎨 [CNNs](#-cnns)                 |
-| 🔐 [DPO](#dpo)                     | 🔁 [RNNs](#rnns)                      | 🧾 [Image Classification](#-image-classification) | ⚡ [Model Technical Paper](#model-technical-paper) |
-| ⛳[Books](#books) | 🍂[LLM Reinforcement Learning](#llm-reinforcement-learning)| 🍃[Mixture of expert](#mixture-of-expert) | 🦒[Fine-tuning](#fine-tuning)| 
-| 🪰[Tensor](#tensor)| 🧞‍♀️[Supervised Learning](#supervised-learning)| 🐦‍🔥[IISC Bangalore](#iisc-bangalore)| 🧜‍♂️[AI Agent](#ai-agent)|
-| 🫀[Artificial Intelligence](#artificial-intelligence)| 🧘‍♂️[Prompt Engineering](#prompt-engineering)|🕷️[Statistical](#statistical) |🧬[Generative AI](#generative-ai)|
-|🎡[Stanford University](#stanford-university) |
+| Category                           | Category                                | Category                               |
+|------------------------------------|-----------------------------------------|----------------------------------------|
+| 🧠 [LLM Architectures](#llm-architectures)      | 🔥 [Machine Learning](#machine-learning)   | ✍️ [GPUs](#gpu)  |
+| 📗 [RLHF](#rlhf)                                | 🔗 [Chain of Thought](#chain-of-thought)   | 🔍 [AI Math](#ai-math)                 |
+| 🐭 [ML](#machine-learning)                      | 🏆 [Deep Learning](#deep-learning)         |🧩 [NLP](#nlp)                     |
+| 🖼️ [Computer Vision](#computer-vision)          | 🎮 [Reinforcement Learning](#reinforcement-learning) | 🎨 [CNNs](#-cnns)                 |
+| 🔐 [DPO](#dpo)                                  | 🔁 [RNNs](#rnns)                           | 🧾 [Image Classification](#-image-classification) | 
+|⚡ [Model Technical Paper](#model-technical-paper) | ⛳[Books](#books)                        | 🍂[LLM Reinforcement Learning](#llm-reinforcement-learning)|
+|🍃[Mixture of expert](#mixture-of-expert)        | 🦒[Fine-tuning](#fine-tuning)              | 🪰[Tensor](#tensor)|
+|🧞‍♀️[Supervised Learning](#supervised-learning)    | 🐦‍🔥[IISC Bangalore](#iisc-bangalore)        | 🧜‍♂️[AI Agent](#ai-agent)|
+|🫀[Artificial Intelligence](#artificial-intelligence) |🧘‍♂️[Prompt Engineering](#prompt-engineering)      |🕷️[Statistical](#statistical) |
+|🧬[Generative AI](#generative-ai)                   |🎡[Stanford University](#stanford-university)    |
 
 
 
