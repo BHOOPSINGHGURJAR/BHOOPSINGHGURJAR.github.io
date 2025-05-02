@@ -10,10 +10,7 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 
 | Category                            | Category                              | Category                            |
 |-------------------------------------|----------------------------------------|-------------------------------------|
-| 🧠 [Artificial Intelligence](#-artificial-intelligence) | 🧱 [Prompting Techniques](#-prompting-techniques) | 🩸 [Small Language Models](#-small-language-models) |
-| 🖼️ [Multi Modal LLMs](#-multi-modal-llms) | 🌐 [Multilingual LLMs](#-multilingual-llms) | 🗂️ [Data Management](#-data-management) |
-| 🔧 [Post Training](#-post-training) | 🛠️ [LLM Fine Tuning](#-llm-fine-tuning) | ⚖️ [LLM Inference](#-llm-inference) |
-| 🧬 [LLM Architectures](#-llm-architectures) | 🧩 [LLM Abilities and Limitations](#-llm-abilities-and-limitations) | 🧠 [LLM Reasoning](#-llm-reasoning) |
+| 🧠[LLM Architectures](#llm-architectures) | 🧩 [LLM Abilities and Limitations](#-llm-abilities-and-limitations) | 🧠 [LLM Reasoning](#-llm-reasoning) |
 | 🔗 [Chain of Thought](#-chain-of-thought) | 🔍 [LLM RAG](#-llm-rag) | 🤖 [LLM Agents](#-llm-agents) |
 | 🧪 [Data Augmentation](#-data-augmentation) | 😵‍💫 [Hallucination](#-hallucination) | 🟢 [Fairness](#-fairness) |
 | 🧱 [Embedding Models](#-embedding-models) | 🧾 [LLM Evaluation](#-llm-evaluation) | 🧬 [Synthetic Data Generation](#-synthetic-data-generation) |
@@ -27,7 +24,7 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 | 📄 [Summarization](#-summarization) | 🖼️ [Computer Vision](#-computer-vision) | 🧾 [Image Classification](#-image-classification) |
 | 🎯 [Object Detection](#-object-detection) | 🧩 [Segmentation](#-segmentation) | 🕺 [Pose Estimation](#-pose-estimation) |
 | 🎮 [Reinforcement Learning](#-reinforcement-learning) | 🧠 [Policy Optimization](#-policy-optimization) | ⚡ [Q-Learning](#-q-learning) |
-| 🤝 [Multi-Agent RL](#-multi-agent-rl) | 🌍 [Pytorch](#-pytorch) | ⚠️[Karpathy](#karpathy) |
+| 🤝 [Multi-Agent RL](#-multi-agent-rl) | 🌍 [Pytorch](#-pytorch) | ⚠️[Karpathy](#karpathy) | ☠️[How To Make LLM](#how-to-make-llm)|
 
 ---
 
@@ -117,7 +114,7 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 | 6  | The Unreasonable Effectiveness of Recurrent Neural Networks - Karpathy   | [Link](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) |
 | 7  | NLP from Scratch - PyTorch                                               | [Link](https://pytorch.org/tutorials/intermediate/nlp_from_scratch_index.html) |
 
-## 📚 LLM Architectures
+## 📚LLM Architectures
 🔙 [Back to Categories](#-ai-world-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
@@ -152,6 +149,16 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 |4 |CS231n: Convolutional Neural Networks for Visual Recognition |[Link](https://cs231n.stanford.edu/2016/)|
 |5 | EurekaLabsAI |[Link](https://github.com/EurekaLabsAI)|
 |6 | Github |[Link](https://github.com/karpathy) |
+
+
+## ☠️How To Make LLM
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |   How to Scale Your Model by google      | [Link](https://jax-ml.github.io/scaling-book/) |
+|2   | The Ultra-Scale Playbook: Training LLMs on GPU Clusters by Huggingface |[Link](https://huggingface.co/spaces/nanotron/ultrascale-playbook)|
 
 
 
