@@ -11,12 +11,8 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 
 | Category                            | Category                              | Category                            |
 |-------------------------------------|----------------------------------------|-------------------------------------|
-| 🧠[LLM Architectures](#llm-architectures) | 🧩 [LLM Abilities and Limitations](#-llm-abilities-and-limitations) | 🧠 [LLM Reasoning](#-llm-reasoning) |
+| 🧠[LLM Architectures](#llm-architectures) | 
 | 🔗 [Chain of Thought](#-chain-of-thought) | 🔍 [LLM RAG](#-llm-rag) | 🤖 [LLM Agents](#-llm-agents) |
-| 🧪 [Data Augmentation](#-data-augmentation) | 😵‍💫 [Hallucination](#-hallucination) | 🟢 [Fairness](#-fairness) |
-| 🧱 [Embedding Models](#-embedding-models) | 🧾 [LLM Evaluation](#-llm-evaluation) | 🧬 [Synthetic Data Generation](#-synthetic-data-generation) |
-| 🔴 [LLM Safety](#-llm-safety) | 🏥 [LLMs for Specific Domains](#-llms-for-specific-domains) | ☑️ [Foundations Of AI](#-foundations-of-ai) |
-| 🔥 [Robotics & Control](#-robotics-control) | 🧠 [Artificial General Intelligence](#-artificial-general-intelligence) | 🔍 [Search Algorithms](#-search-algorithms) |
 | 🐭 [Machine Learning](#-machine-learning) | 📘 [Supervised Learning](#-supervised-learning) | 📙 [Unsupervised Learning](#-unsupervised-learning) |
 | 📗 [Semi-supervised Learning](#-semi-supervised-learning) | 📕 [Model Evaluation](#-model-evaluation) | 🏆 [Deep Learning](#-deep-learning) |
 | 🎨 [CNNs](#-cnns) | 🔁 [RNNs](#-rnns) | ✨ [Transformers](#-transformers) |
