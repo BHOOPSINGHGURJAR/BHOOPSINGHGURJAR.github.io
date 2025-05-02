@@ -141,7 +141,7 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 | 17 | Neural Networks: Zero to Hero                                            | [Link](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |
 
 
-## ⚠️ Karpathy
+## ⚠️Karpathy
 🔙 [Back to Categories](#-ai-world-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
