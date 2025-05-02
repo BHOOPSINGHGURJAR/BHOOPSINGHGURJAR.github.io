@@ -13,11 +13,11 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 | 🔗 [Chain of Thought](#chain-of-thought)  | 🔍 [AI Math](#ai-math)                 | 🐭 [ML](#machine-learning)             | 🏆 [Deep Learning](#deep-learning) |
 | 🧩 [NLP](#nlp)                     | 🖼️ [Computer Vision](#computer-vision)  | 🎮 [Reinforcement Learning](#reinforcement-learning) | 🎨 [CNNs](#-cnns)                 |
 | 🔐 [DPO](#dpo)                     | 🔁 [RNNs](#rnns)                      | 🧾 [Image Classification](#-image-classification) | ⚡ [Model Technical Paper](#model-technical-paper) |
-| ⛳[Books](#books) |
+| ⛳[Books](#books) | 🍂[LLM Reinforcement Learning](#llm-reinforcement-learning)| 🍃[Mixture of expert](#mixture-of-expert)
 
 
 ---
-More comming soon..
+More coming soon..
 
 ## 🏆Deep Learning
 
@@ -213,6 +213,29 @@ More comming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  DeepSeek-Prover-V2   | [Link](https://github.com/deepseek-ai/DeepSeek-Prover-V2/blob/main/DeepSeek_Prover_V2.pdf) |
+| 2  | GPT-1 → Improving Language Understanding by Generative Pre-Training(2018) |[Link](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)|
+| 3  | GPT-2 → Language Models are Unsupervised Multitask Learners (2019) | [Link](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|
+| 4  | GPT-3 → Language Models are Few-Shot Learners(2020) | [Link](https://arxiv.org/abs/2005.14165)|
+| 5  | ChatGPT :Trained with RLHF – Reinforcement Learning from Human Feedback (Ouyang et al., 2022) |[Link](https://arxiv.org/abs/2203.02155)|
+| 6  |  GPT-4 → GPT-4 Technical Report (2023) |[Link](https://cdn.openai.com/papers/gpt-4.pdf)|
+| 7   | Claude (Anthropic) Constitutional AI: Harmlessness from AI Feedback (2022) | [Link](https://arxiv.org/pdf/2212.08073)|
+| 8   | Gemini: A Family of Highly Capable Multimodal Models (2023) | [Link](https://arxiv.org/abs/2312.11805)|
+| 9   | Start building with Gemini 2.5 Flash(2025) | [Link](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)|
+| 10  | Gemma (Google) Gemma: Open Models for Responsible AI(2024)  | [Link](https://arxiv.org/abs/2403.08295)|
+| 11|  Gemma 3 Technical Report(2025) | [Link](https://arxiv.org/abs/2503.19786)|
+|12 | LLaMA Series (Meta AI) LLaMA: Open and Efficient Foundation Language Models(2023) |[Liink](https://arxiv.org/abs/2302.13971)|
+| 13 |  LLaMA 2: Improved training and safety (2023) | [Link](https://arxiv.org/pdf/2307.09288)|
+| 14 | Llama 3:The Llama 3 Herd of Models | [Link](https://arxiv.org/abs/2407.21783) |
+| 15 | Llama 4:The beginning of a new era of natively multimodal AI innovation | [Link](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)|
+| 16 | Mistral AI(France) Mistral 7B: Grouped-query attention (2023) | [Link](https://arxiv.org/abs/2310.06825)|
+| 17 | Kimi by Moonshot AI (China) Scaling RL with LLMs: Technical Report of Kimi k1.5 (2025) | [Link](https://arxiv.org/abs/2501.12599)|
+| 18 | DeepSeek(China) DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models |[Link](https://arxiv.org/abs/2402.03300)|
+| 19 |  DeepSeek-V3 Technical Report (2024) | [Link](https://arxiv.org/pdf/2412.19437)|
+| 20 | DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning | [Link](https://arxiv.org/abs/2501.12948)| 
+| 21 |  Qwen (China) Qwen Technical Report(2023)  | [Link](https://arxiv.org/pdf/2309.16609)|
+| 22 | Qwen2 Technical Report(2024) | [Link](https://arxiv.org/pdf/2407.10671)|
+| 23 |  Qwen2.5 Technical Report(2024) | [Link](https://arxiv.org/pdf/2412.15115)|
+| 24 | Qwen2.5-Omni Technical Report Multimodel (2025) | [Link](https://arxiv.org/pdf/2503.20215) |
 
 
 ## LLM-powered phone
@@ -409,6 +432,37 @@ More comming soon..
 | 17 | Think Stats, 2nd Edition_ Exploratory Data Analysis | [Link](https://github.com/bhoop70233/AI-Books/blob/main/Think%20Stats%2C%202nd%20Edition_%20Exploratory%20Data%20Analysis%20(%20PDFDrive%20).pdf)|
 |18 | kafka  the definitive guide|[Link](https://github.com/bhoop70233/AI-Books/blob/main/kafka_%20the%20definitive%20guide.pdf)|
 | 19 |practical synthetic data generation balancing privacy and the broad availability of data | [Link](https://github.com/bhoop70233/AI-Books/blob/main/practical-synthetic-data-generation-balancing-privacy-and-the-broad-availability-of-data-9781492072690-1492072699.pdf)|
+
+
+
+## LLM Reinforcement Learning
+
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Asynchronous Deep Reinforcement Learning (Google Deepmind 2016) | [Link](https://arxiv.org/pdf/1602.01783) |
+| 2  | Reinforcement Learning from Human (OpenAI 2017)|[Link](https://arxiv.org/pdf/1706.03741)|
+| 3  | Proximal Policy Optimization (OpenAI 2017)   | [Link](https://arxiv.org/pdf/1707.06347) |
+| 4  |Fine-Tuning Language Models from Human Preferences (OpenAI 2020) |[Link](https://arxiv.org/pdf/1909.08593) |
+|  5  | Learning to Summarize from Human Feedback (OpenAI 2022)|[Link](https://arxiv.org/pdf/2009.01325)|
+| 6   | Direct Preference Optimization( Stanford University 2023)|[Link](https://arxiv.org/pdf/2305.18290)|
+|7    | Group Relative Policy Optimization ( DeepSeek 2024) | [Link](https://arxiv.org/pdf/2402.03300) |
+| 8   |  Reinforcement learning with verifiable rewards (DeepSeek 2025) | [Link](https://arxiv.org/pdf/2412.19437v1)|
+| 9   |  Reinforcement Learning from Human Feedback (Nathan Lambert)   | [Link](https://rlhfbook.com/c/11-policy-gradients.html)|
+
+
+## Mixture of expert
+
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER| [Link](https://arxiv.org/pdf/1701.06538) |
+
+
+
+
 
 
 
