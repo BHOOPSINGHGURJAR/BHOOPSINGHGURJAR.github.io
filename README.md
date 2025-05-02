@@ -16,6 +16,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 | ⛳[Books](#books) | 🍂[LLM Reinforcement Learning](#llm-reinforcement-learning)| 🍃[Mixture of expert](#mixture-of-expert) | 🦒[Fine-tuning](#fine-tuning)| 
 | 🪰[Tensor](#tensor)| 🧞‍♀️[Supervised Learning](#supervised-learning)| 🐦‍🔥[IISC Bangalore](#iisc-bangalore)| 🧜‍♂️[AI Agent](#ai-agent)|
 | 🫀[Artificial Intelligence](#artificial-intelligence)| 🧘‍♂️[Prompt Engineering](#prompt-engineering)|🕷️[Statistical](#statistical) |🧬[Generative AI](#generative-ai)|
+|🎡[Stanford University](#stanford-university) |
 
 
 
@@ -590,6 +591,37 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Microsoft launched the best course on Generative AI | [Link](https://microsoft.github.io/generative-ai-for-beginners/#/) |
+
+
+
+## Stanford University
+
+
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  STATS 202: Data Mining and Analysis | [Link](http://web.stanford.edu/class/stats202/intro.html) |
+| 2  |  CS109: Introduction to Probability for Computer Scientists |[Link](http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/) |
+| 3 | CS231N: Convolutional Neural Networks for Visual Recognition |[Link](https://cs231n.stanford.edu/) |
+| 4 | CS224N: Natural Language Processing with Deep Learning |[Link](https://web.stanford.edu/class/cs224n/)|
+| 5 | CS229: Machine Learning |[Link](https://cs229.stanford.edu/)|
+| 6  | CS221: Artificial Intelligence: Principles and Techniques |[Link](https://stanford-cs221.github.io/spring2025/)|
+| 7  | CS228: Probabilistic Graphical Models: Principles and Techniques |[Link](https://ermongroup.github.io/cs228-notes/)|
+| 8  | CS234: Reinforcement Learning | [Link](https://web.stanford.edu/class/cs234/index.html)|
+| 9  | CS238: Decision Making under Uncertainty (AA 228)  | [Link](https://aa228.stanford.edu/)|
+| 10 | CS224W: Machine Learning with Graphs  | [Link](https://web.stanford.edu/class/cs224w/)|
+| 11 | CS246: Mining Massive Data Sets | [Link](https://web.stanford.edu/class/cs246/) |
+| 12 | CS230: Deep Learning   | [Link](https://cs230.stanford.edu/)|
+| 13 | CS236: Deep Generative Models  | [Link](https://deepgenerativemodels.github.io/)
+| 14 | EE263: Introduction to Linear Dynamical Systems | [Link](https://ee263.stanford.edu/) |
+| 15 | CS336: Robot Perception and Decision-Making  | [Link](https://stanford-cs336.github.io/spring2025/) |
+
+
+
+
+
+
 
 
 
