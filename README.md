@@ -4,6 +4,13 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 
 [![LinkedIn](https://img.shields.io/badge/Bhoop%20Singh%20Gurjar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhoop-singh-gurjar-%F0%9F%87%AE%F0%9F%87%B3-3b41b41a9)
 
+###  
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bhoopsinghgurjar.bhoopsinghgurjar&" />
+</div>
+
+###
+
 ---
 ## 🚀Quick Links
 
