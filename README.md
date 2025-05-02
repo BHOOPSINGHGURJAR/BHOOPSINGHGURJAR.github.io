@@ -11,18 +11,17 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 
 | Category                            | Category                              | Category                            |
 |-------------------------------------|----------------------------------------|-------------------------------------|
-| 🧠[LLM Architectures](#llm-architectures) | 
-| 🔗 [Chain of Thought](#-chain-of-thought) | 🔍 [LLM RAG](#-llm-rag) | 🤖 [LLM Agents](#-llm-agents) |
-| 🐭 [Machine Learning](#-machine-learning) | 📘 [Supervised Learning](#-supervised-learning) | 📙 [Unsupervised Learning](#-unsupervised-learning) |
-| 📗 [Semi-supervised Learning](#-semi-supervised-learning) | 📕 [Model Evaluation](#-model-evaluation) | 🏆 [Deep Learning](#-deep-learning) |
-| 🎨 [CNNs](#-cnns) | 🔁 [RNNs](#-rnns) | ✨ [Transformers](#-transformers) |
-| 🔐 [Autoencoders](#-autoencoders) | 🌀 [Generative AI](#-generative-ai) | 🗣️ [Natural Language Processing](#natural-language-processing) |
-| 📝 [Text Classification](#-text-classification) | 🌍 [Machine Translation](#-machine-translation) | ❓ [Question Answering](#-question-answering) |
-| 📄 [Summarization](#-summarization) | 🖼️ [Computer Vision](#-computer-vision) | 🧾 [Image Classification](#-image-classification) |
-| 🎯 [Object Detection](#-object-detection) | 🧩 [Segmentation](#-segmentation) | 🕺 [Pose Estimation](#-pose-estimation) |
-| 🎮 [Reinforcement Learning](#-reinforcement-learning) | 🧠 [Policy Optimization](#-policy-optimization) | ⚡ [Q-Learning](#-q-learning) |
-| 🤝 [Multi-Agent RL](#-multi-agent-rl) | 🌍 [Pytorch](#-pytorch) | ⚠️[Karpathy](#karpathy) | 
-| ☠️[How To Make LLM](#how-to-make-llm)|
+| 🧠[LLM Architectures](#llm-architectures) | 🔥[Machine Learning](#machine-learning) | ✍️[GPUs](#gpu) |
+| 🔗 [Chain of Thought](#chain-of-thought) | 🔍 [AI Math](#ai-math) | 🤖 [Embedding](#embedding) |
+| 🐭 [Machine Learning](#-machine-learning) | 📘 [AI Blog](#ai-blog) | 📙 [AI Youtube Channel](#ai-youtube-channel) |
+| 📗 [RLHF](#rlhf) | 📕 [RAG](#rag) | 🏆 [Deep Learning](#-deep-learning) |
+| 🎨 [CNNs](#-cnns) | 🔁 [RNNs](#-rnns) | ✨ [LoRA](#lora) |
+| 🔐 [DPO](#dpo) | 🌀 [Scaling Laws](#scaling-laws) | 🗣️ [Few-Shot](#few-shot) |
+| 📝 [BERT](#bert) | 🌍 [Attention](#attention) | ❓ [Neural Network](#neural-network)  | 
+|🖼️ [Computer Vision](#computer-vision) | 🧾 [Image Classification](#-image-classification) | 🎯[Backpropagation](#backpropagation) | 
+|🧩 [NLP](#nlp) | 🕺 [Diffusion Model](#diffusion-model) | 🎮 [Reinforcement Learning](#reinforcement-learning) | 
+|🧠 [LLM-powered phone](#llm-powered-phone) | ⚡ [Model Technical Paper](#model-technical-paper) | 🤝 [LLM Inference](#llm-inference) |
+|🌍 [Pytorch](#-pytorch) | ⚠️[Karpathy](#karpathy) |  ☠️[How To Make LLM](#how-to-make-llm)|
 
 ---
 
@@ -62,6 +61,20 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 | 9  | MIT – Introduction to Deep Learning                                            | [Link](https://introtodeeplearning.com/) |
 | 10 | CS231n – Deep Learning for Computer Vision                                     | [Link](https://cs231n.stanford.edu/) |
 | 11 | CS224d – Deep Learning for Natural Language Processing                         | [Link](https://www.youtube.com/playlist?list=PL4PDl8a0S5tvphRVF45G8B7z0pDO6MT7C) |
+| 12 | Machine Learning - Caltech by Yaser Abu-Mostafa (2012-2014) | [Link](https://lnkd.in/gFrJZMyc)|
+| 13 | Neural networks class by Hugo Larochelle from Université de Sherbrooke (2013) | [Link](https://lnkd.in/gp_yWima)|
+|14 | A.I - MIT by Patrick Henry Winston (2010) |[Link](https://lnkd.in/gxaai466)|
+|15 | Vision and learning - computers and brains by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013) |[Link](https://lnkd.in/gndivz6G)|
+|16 | Deep Learning for Natural Language Processing - Stanford(2017) |[Link](https://lnkd.in/g7qN9W9N)|
+| 17 | Machine Learning - Oxford (2014-2015) |[Link](https://lnkd.in/gAim2CuT)|
+| 18 | Deep Learning - UWaterloo by Prof. Ali Ghodsi at University of Waterloo (2015) |[Link](https://lnkd.in/gAqHveGS)|
+| 19 | Statistical Machine Learning - CMU by Prof. Larry Wasserman |[Link](https://lnkd.in/gAM829ec)|
+| 20 |  Introduction to Deep Learning by Prof. Bhiksha Raj (2017) |[Link](https://lnkd.in/ghr3mk9J)|
+| 21 | Deep Learning - UC Berkeley | STAT-157 by Alex Smola and Mu Li (2019) |[Link](https://lnkd.in/gyMccbeB) |
+
+
+
+
 
 ---
 
@@ -134,6 +147,10 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 | 15 | LLM VISUALIZATION                                                        | [Link](https://bbycroft.net/llm) |
 | 16 | LLM course - huggingface                                                 | [Link](https://huggingface.co/learn/llm-course/chapter1/1) |
 | 17 | Neural Networks: Zero to Hero                                            | [Link](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |
+|18 | Stanford CS229 (2023) | [Link](https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline) |
+|19 | Building an LLM from Scratch (Sebastian Raschka, 2024) | [Link](https://youtu.be/quh7z1q7-uc)|
+| 20 | General Audience Large Language Models (Andrej Karpathy, 2024) |[Link](https://youtu.be/zjkBMFhNj_g)|
+| 21 | Foundations of Large Language Models" by Tong Xiao and Jingbo Zhu |[Link](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/foundations-of-large-language-/2501.09223v1.pdf)|
 
 
 ## Karpathy
@@ -157,6 +174,242 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 |----|--------------------------------------------------------------------------|--------|
 | 1  |   How to Scale Your Model by google      | [Link](https://jax-ml.github.io/scaling-book/) |
 |2   | The Ultra-Scale Playbook: Training LLMs on GPU Clusters by Huggingface |[Link](https://huggingface.co/spaces/nanotron/ultrascale-playbook)|
+
+## Machine Learning
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |   How to Scale Your Model by google      | [Link](https://jax-ml.github.io/scaling-book/) |
+| 2  | Machine Learning Specialization (Coursera) |[Link](https://www.coursera.org/specializations/machine-learning-introduction) |
+
+## Computer vision
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Deep Learning for computer vision, by Andrej Karpathy    | [Link](https://youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&si=9JudewH1OAUmhj1x) |
+|2  | Computer Vision & Deep Learning (freeCodeCamp)  | [Link](https://youtu.be/IA3WxTTPXqQ) |
+ 
+
+## LLM Inference
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  How to build an LLM inference engine using C++ and CUDA from scratch without libraries   | [Link](https://andrewkchan.dev/posts/yalm.html) |
+
+## Model Technical Paper
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  DeepSeek-Prover-V2   | [Link](https://github.com/deepseek-ai/DeepSeek-Prover-V2/blob/main/DeepSeek_Prover_V2.pdf) |
+
+
+## LLM-powered phone
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | LLM-powered phone GUI agents in phone automation   | [Link](https://lnkd.in/ga3zuCu3) |
+
+## Diffusion Model
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Diffusion  Models from statistical first principles| [Link](https://lnkd.in/gUnVF4fe) |
+| 2  | implement Diffusion Models from scratch w/ Transformer |[Link](https://lnkd.in/grszCbUr)|
+| 3 |  Denoising Diffusion Probabilistic Models (Ho et al., 2020) |[Link]()|
+
+## NLP
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗦𝗰𝗿𝗮𝘁𝗰𝗵  Stanford University 𝗡𝗟𝗣| [Link](https://lnkd.in/dShKKD2k) |
+
+## Backpropagation
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Learning Representations by Back-Propagating Errors (Rumelhart et al., 1986)| [Link](https://lnkd.in/gsN9XH3A) |
+
+## Attention
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Attention Is All You Need (Vaswani et al., 2017) | [Link](https://lnkd.in/gXUccydp) |
+
+
+## BERT
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | BERT: Pre-training of Deep Bidirectional Transformers (Devlin et al., 2018) | [Link](https://lnkd.in/gGjmS5aD) |
+
+## Few-Shot 
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Language Models are Few-Shot Learners (Brown et al., 2020) | [Link](https://lnkd.in/gGPzgTX8) |
+
+
+## Chain of Thought
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Chain of Thought Prompting (Wei et al., 2022)| [Link](https://lnkd.in/gAaQkzF3) |
+
+## Scaling Laws
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Scaling Laws for Neural Language Models (Kaplan et al., 2020)| [Link](https://lnkd.in/g8Y7x68h) |
+
+## DPO
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Direct Preference Optimization (Rafailov et al., 2023)| [Link](https://lnkd.in/gzmknGCQ) |
+
+## LoRA
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  LoRA: Low-Rank Adaptation (Hu et al., 2021) | [Link](https://lnkd.in/gK4W7YUh) |
+
+
+## RAG
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Retrieval-Augmented Generation (Lewis et al., 2020) | [Link](https://lnkd.in/gp7y4zFu) |
+
+
+## RLHF
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Reinforcement Learning from Human Feedback by Nathan Lambert | [Link](https://rlhfbook.com/) |
+
+## Reinforcement Learning
+
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Berkeley CS 294: Deep Reinforcement Learning | [Link](https://lnkd.in/gxYEcpJ9) |
+| 2  | Spinning Up in Deep Reinforcement Learning - A free deep reinforcement learning course by OpenAI (2019) |[Link](https://lnkd.in/gd7kgQUZ)|
+
+## AI Youtube Channel
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  𝗧𝘄𝗼 𝗠𝗶𝗻𝘂𝘁𝗲 𝗣𝗮𝗽𝗲𝗿𝘀 | [Link](https://lnkd.in/d2MWB7a9) |
+| 2  | 𝗗𝗲𝗲𝗽𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗔𝗜 |[Link](https://lnkd.in/dKxtcCCU)|
+| 3  | 𝗟𝗲𝘅 𝗙𝗿𝗶𝗱𝗺𝗮𝗻     | [Link](https://lnkd.in/dyZe9v8m) |
+| 4  | 3𝗕𝗹𝘂𝗲1𝗕𝗿𝗼𝘄𝗻     |[Link](https://lnkd.in/dfEuTf_r) |
+|  5  | 𝗔𝗻𝗱𝗿𝗲𝗷 𝗞𝗮𝗿𝗽𝗮𝘁𝗵𝘆 |[Link](https://lnkd.in/dFjV3j4d)|
+| 6   | 𝗦𝗲𝗻𝘁𝗱𝗲𝘅         |[Link](https://lnkd.in/dXX3xCTE)|
+|7    | 𝗠𝗮𝘁𝘁 𝗪𝗼𝗹𝗳𝗲     | [Link](https://lnkd.in/d798mz9h) |
+
+## AI Blog
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  𝗧𝗼𝘄𝗮𝗿𝗱𝘀𝗗𝗮𝘁𝗮𝗦𝗰𝗶𝗲𝗻𝗰𝗲 | [Link](https://lnkd.in/dyasxKUU) |
+| 2  | 𝗢𝗽𝗲𝗻𝗔𝗜 𝗕𝗹𝗼𝗴|[Link](https://openai.com/news/)|
+| 3  | 𝗠𝗮𝗿𝗸𝗧𝗲𝗰𝗵𝗣𝗼𝘀𝘁     | [Link](https://lnkd.in/dxb3yCJs) |
+| 4  | 𝗗𝗲𝗲𝗽𝗠𝗶𝗻𝗱 𝗕𝗹𝗼𝗴   |[Link](https://lnkd.in/du9i_m3x) |
+|  5  | 𝗔𝗻𝘁𝗵𝗿𝗼𝗽𝗶𝗰 𝗕𝗹𝗼𝗴|[Link](https://lnkd.in/dS-P3ktx)|
+| 6   | 𝗕𝗲𝗿𝗸𝗲𝗹𝗲𝘆 𝗕𝗮𝗶𝗿      |[Link](https://bair.berkeley.edu/)|
+|7    | 𝗛𝘂𝗴𝗴𝗶𝗻𝗴𝗳𝗮𝗰𝗲 𝗕𝗹𝗼𝗴   | [Link](https://lnkd.in/dTqzeHJ4) |
+
+## Embedding
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  LLM Embedding Explained | [Link](https://lnkd.in/gAJY3XxX) |
+
+## AI Math
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Matrix Calulus for Machine Learning and Beyond  | [Link](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/lecture-notes/) |
+
+## Neural Network
+🔙 [Back to Categories](#-ai-world-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  LLMs work by 3b1b | [Link](https://youtu.be/aircAruvnKk?si=tCDwjCWULpURXbBN) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
