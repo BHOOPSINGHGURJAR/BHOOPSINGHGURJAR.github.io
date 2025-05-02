@@ -19,8 +19,8 @@ This repo contains a category-wise collection of **AI  papers,blog,code,repo**.
 | 🧱 [Embedding Models](#)          | 🧾 [LLM Evaluation](#)                 | 🧬 [Synthetic Data Generation](#)   |
 | 🔴 [LLM Safety](#)                | 🏥 [LLMs for Specific Domains](#)      | ☑️ [Foundations Of AI](#)            |
 |🔥[Robotics & Control](#)                          | [Artificial General Intelligence](#)   | [search Algorithms](#)               |
-|[Machine Learning ](#)            |[	Supervised Learning ](#)                  |[ Unsupervised Learning](#)              |
-|[Semi-supervised Learning](#)           |[ Model Evaluation ](#)                |[Deep Learning ](#)                 |
+|🐭[Machine Learning ](#)            |[Supervised Learning ](#)                  |[ Unsupervised Learning](#)              |
+|[Semi-supervised Learning](#)           |[ Model Evaluation ](#)                |🏆[Deep Learning ](##)                 |
 |[Convolutional Neural Networks](#)      |[ Recurrent Neural Networks](#)             |[ Transformers](#)                       |
 |[Autoencoders](#)                       |[Generative AI](#)                         |[Natural Language Processing	Language ](#)|
 |[Text Classification](#)                 |[ Machine Translation](#)                  |[Question Answering ](#)                  |
@@ -33,6 +33,8 @@ This repo contains a category-wise collection of **AI  papers,blog,code,repo**.
 
 ---
 
-## 📂 Related Repositories
+
+## 🏆Deep Learning(#deep-learning)
+
 
 
