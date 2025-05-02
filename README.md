@@ -183,8 +183,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
-| 1  |   How to Scale Your Model by google      | [Link](https://jax-ml.github.io/scaling-book/) |
-| 2  | Machine Learning Specialization (Coursera) |[Link](https://www.coursera.org/specializations/machine-learning-introduction) |
+| 1  | Machine Learning Specialization (Coursera) |[Link](https://www.coursera.org/specializations/machine-learning-introduction) |
 
 ## Computer vision
 
