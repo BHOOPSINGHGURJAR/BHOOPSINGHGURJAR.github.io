@@ -1,4 +1,4 @@
-# 📚 AI World Collection
+# 📚 AI Collection
 
 This Web-page contains a category-wise collection of **AI papers, blogs, code, and repos**.
 
