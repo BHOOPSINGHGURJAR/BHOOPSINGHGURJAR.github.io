@@ -2,8 +2,11 @@
 
 This webpage offers a curated, category-wise collection of resources in **Artificial Intelligence**—including **courses, books, playlists, research papers, blogs, code snippets, and repositories** .
 
-[![LinkedIn](https://img.shields.io/badge/Bhoop%20Singh%20Gurjar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhoop-singh-gurjar-%F0%9F%87%AE%F0%9F%87%B3-3b41b41a9)
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/bhoop-singh-3b41b41a9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Bhoop&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 ###  
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bhoopsinghgurjar.bhoopsinghgurjar&" />
