@@ -13,6 +13,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 | 🔗 [Chain of Thought](#chain-of-thought)  | 🔍 [AI Math](#ai-math)                 | 🐭 [ML](#machine-learning)             | 🏆 [Deep Learning](#deep-learning) |
 | 🧩 [NLP](#nlp)                     | 🖼️ [Computer Vision](#computer-vision)  | 🎮 [Reinforcement Learning](#reinforcement-learning) | 🎨 [CNNs](#-cnns)                 |
 | 🔐 [DPO](#dpo)                     | 🔁 [RNNs](#rnns)                      | 🧾 [Image Classification](#-image-classification) | ⚡ [Model Technical Paper](#model-technical-paper) |
+| ⛳[Books](#books) |
 
 
 ---
@@ -383,6 +384,32 @@ More comming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  LLMs work by 3b1b | [Link](https://youtu.be/aircAruvnKk?si=tCDwjCWULpURXbBN) |
+
+## Books
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Python Crash course  | [Link](https://github.com/bhoop70233/AI-Books/blob/main/2nd.Python-Crash-Course-1.pdf) |
+| 2  | Cloud Data Science for Dummies |[Link](https://github.com/bhoop70233/AI-Books/blob/main/Cloud-Data-Science-for-Dummies.pdf)|
+| 3  | Cost-Effective Data Pipelines |[Link](https://github.com/bhoop70233/AI-Books/blob/main/Cost-Effective%20Data%20Pipelin_%20(Z-Library).pdf)|
+|  4 | DATA ENGINEER With Python | [Link](https://github.com/bhoop70233/AI-Books/blob/main/DATA%20ENGINEER.pdf)|
+|  5 | Data Pipelines Pocket Reference |[Link](https://github.com/bhoop70233/AI-Books/blob/main/Data%20Pipelines%20Pocket%20Refer_%20(Z-Library).pdf)|
+|   6 | Data Internals A Deep Dive into How Distributed data systems work|[Link](https://github.com/bhoop70233/AI-Books/blob/main/Database%20Internals%20A%20Deep%20D_%20(Z-Library).pdf)|
+|  7 | Deciphering Data Architectures |[Link](https://github.com/bhoop70233/AI-Books/blob/main/Deciphering%20Data%20Architectu_%20(Z-Library).pdf)|
+|  8 | Foundations of Scalable systems |[Link](https://github.com/bhoop70233/AI-Books/blob/main/Foundations%20of%20Scalable%20Sys_%20(Z-Library).pdf)|
+|  9 | Fundamentals of Data Engineering_ Plan and Build Robust Data Systems |[Link](https://github.com/bhoop70233/AI-Books/blob/main/Fundamentals%20of%20Data%20Engineering_%20Plan%20and%20Build%20Robust%20Data%20Systems%20by%20Joe%20Reis.pdf)|
+| 10  | Hadoop The Definitive Guide |[Link](https://github.com/bhoop70233/AI-Books/blob/main/Hadoop%20The%20Definitive%20Guide_%20(Z-Library).pdf)|
+|  11 | Introduction to Machine Learning with Python |[Link](https://github.com/bhoop70233/AI-Books/blob/main/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf)|
+|  12 |  SQL for Data Analysis |[Link](https://github.com/bhoop70233/AI-Books/blob/main/SQL%20for%20Data%20Analysis.pdf)|
+|  13 |Storytelling with Data_ A Data Visualization Guide for Business Professionals |[Link](https://github.com/bhoop70233/AI-Books/blob/main/Storytelling%20with%20Data_%20A%20Data%20Visualization%20Guide%20for%20Business%20Professionals%20(%20PDFDrive%20).pdf)|
+| 14 | Terraform Up and Running |[Link](https://github.com/bhoop70233/AI-Books/blob/main/Terraform%20%20Up%20and%20Running%20(Early%20Release)%20(%20PDFDrive%20).pdf)|
+| 15 |The Data Engineer Skills & Tools Guide | [Link](https://github.com/bhoop70233/AI-Books/blob/main/The%20Data%20Engineer%20Skills%20%26%20Tools%20Guide.pdf)|
+|16  |The Data Warehouse Toolkit  |[Link](https://github.com/bhoop70233/AI-Books/blob/main/The%20Data%20Warehouse%20Toolkit%2C_%20(Z-Library).pdf)|
+| 17 | Think Stats, 2nd Edition_ Exploratory Data Analysis | [Link](https://github.com/bhoop70233/AI-Books/blob/main/Think%20Stats%2C%202nd%20Edition_%20Exploratory%20Data%20Analysis%20(%20PDFDrive%20).pdf)|
+|18 | kafka  the definitive guide|[Link](https://github.com/bhoop70233/AI-Books/blob/main/kafka_%20the%20definitive%20guide.pdf)|
+| 19 |practical synthetic data generation balancing privacy and the broad availability of data | [Link](https://github.com/bhoop70233/AI-Books/blob/main/practical-synthetic-data-generation-balancing-privacy-and-the-broad-availability-of-data-9781492072690-1492072699.pdf)|
+
 
 
 
