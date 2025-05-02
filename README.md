@@ -4,28 +4,20 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 [![LinkedIn](https://img.shields.io/badge/Bhoop%20Singh%20Gurjar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhoop-singh-gurjar-%F0%9F%87%AE%F0%9F%87%B3-3b41b41a9)
 
+---
+## 🚀 Quick Links
+
+| Category                           | Category                                | Category                               | Category                             |
+|------------------------------------|-----------------------------------------|----------------------------------------|--------------------------------------|
+| 🧠 [LLM Architectures](#llm-architectures) | 🔥 [Machine Learning](#machine-learning) | ✍️ [GPUs](#gpu)                        | 📗 [RLHF](#rlhf)                    |
+| 🔗 [Chain of Thought](#chain-of-thought)  | 🔍 [AI Math](#ai-math)                 | 🐭 [ML](#machine-learning)             | 🏆 [Deep Learning](#deep-learning) |
+| 🧩 [NLP](#nlp)                     | 🖼️ [Computer Vision](#computer-vision)  | 🎮 [Reinforcement Learning](#reinforcement-learning) | 🎨 [CNNs](#-cnns)                 |
+| 🔐 [DPO](#dpo)                     | 🔁 [RNNs](#rnns)                      | 🧾 [Image Classification](#-image-classification) | ⚡ [Model Technical Paper](#model-technical-paper) |
+
 
 ---
 
-## 🚀 Quick links
-
-| Category                            | Category                              | Category                            |
-|-------------------------------------|----------------------------------------|-------------------------------------|
-| 🧠[LLM Architectures](#llm-architectures) | 🔥[Machine Learning](#machine-learning) | ✍️[GPUs](#gpu) |
-| 🔗 [Chain of Thought](#chain-of-thought) | 🔍 [AI Math](#ai-math) | 🤖 [Embedding](#embedding) |
-| 🐭 [Machine Learning](#-machine-learning) | 📘 [AI Blog](#ai-blog) | 📙 [AI Youtube Channel](#ai-youtube-channel) |
-| 📗 [RLHF](#rlhf) | 📕 [RAG](#rag) | 🏆 [Deep Learning](#-deep-learning) |
-| 🎨 [CNNs](#-cnns) | 🔁 [RNNs](#-rnns) | ✨ [LoRA](#lora) |
-| 🔐 [DPO](#dpo) | 🌀 [Scaling Laws](#scaling-laws) | 🗣️ [Few-Shot](#few-shot) |
-| 📝 [BERT](#bert) | 🌍 [Attention](#attention) | ❓ [Neural Network](#neural-network)  | 
-|🖼️ [Computer Vision](#computer-vision) | 🧾 [Image Classification](#-image-classification) | 🎯[Backpropagation](#backpropagation) | 
-|🧩 [NLP](#nlp) | 🕺 [Diffusion Model](#diffusion-model) | 🎮 [Reinforcement Learning](#reinforcement-learning) | 
-|🧠 [LLM-powered phone](#llm-powered-phone) | ⚡ [Model Technical Paper](#model-technical-paper) | 🤝 [LLM Inference](#llm-inference) |
-|🌍 [Pytorch](#-pytorch) | ⚠️[Karpathy](#karpathy) |  ☠️[How To Make LLM](#how-to-make-llm)|
-
----
-
-## 🏆 Deep Learning
+## 🏆Deep Learning
 
 🔙 [Back to Categories](#ai-collection)
 
@@ -114,7 +106,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 | 5  | PyTorch is dead. Long live JAX. - Blog                                   | [Link](https://neel04.github.io/my-website/blog/pytorch_rant/) |
 | 6  | Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond | [Link](https://pytorch.org/blog/inside-the-matrix/) |
 
-## 🧠 RNNs
+## 🧠RNNs
 🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
