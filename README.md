@@ -1,6 +1,6 @@
 # 📚 AI Collection
 
-This Web-page contains a category-wise collection of **AI papers, blogs, code, and repos**.
+This Web-page contains a category-wise collection of **AI course,Book,Playlist,papers, blogs, code, and repos**.
 
 [![LinkedIn](https://img.shields.io/badge/Bhoop%20Singh%20Gurjar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhoop-singh-gurjar-%F0%9F%87%AE%F0%9F%87%B3-3b41b41a9)
 
@@ -70,7 +70,7 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 | 18 | Deep Learning - UWaterloo by Prof. Ali Ghodsi at University of Waterloo (2015) |[Link](https://lnkd.in/gAqHveGS)|
 | 19 | Statistical Machine Learning - CMU by Prof. Larry Wasserman |[Link](https://lnkd.in/gAM829ec)|
 | 20 |  Introduction to Deep Learning by Prof. Bhiksha Raj (2017) |[Link](https://lnkd.in/ghr3mk9J)|
-| 21 | Deep Learning - UC Berkeley | STAT-157 by Alex Smola and Mu Li (2019) |[Link](https://lnkd.in/gyMccbeB) |
+| 21 | Deep Learning - UC Berkeley STAT-157 by Alex Smola and Mu Li (2019) |[Link](https://lnkd.in/gyMccbeB) |
 
 
 
@@ -423,4 +423,4 @@ This Web-page contains a category-wise collection of **AI papers, blogs, code, a
 
 
 
-coming soon...
+**More coming soon... **
