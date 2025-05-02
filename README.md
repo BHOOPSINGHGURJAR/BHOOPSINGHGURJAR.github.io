@@ -1,11 +1,11 @@
-# 📚AI Collection
+# 📚All-in-One AI Reference Guide
 
 This Web-page contains a category-wise collection of **AI course,Book,Playlist,papers, blogs, code, and repos**.
 
 [![LinkedIn](https://img.shields.io/badge/Bhoop%20Singh%20Gurjar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhoop-singh-gurjar-%F0%9F%87%AE%F0%9F%87%B3-3b41b41a9)
 
 ---
-## 🚀 Quick Links
+## 🚀Quick Links
 
 | Category                           | Category                                | Category                               | Category                             |
 |------------------------------------|-----------------------------------------|----------------------------------------|--------------------------------------|
@@ -26,7 +26,7 @@ More coming soon..
 
 ## 🏆Deep Learning
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 ---
 
@@ -47,7 +47,7 @@ More coming soon..
 
 ### 🎓 Deep Learning Courses
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 🎥 Course Name                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------------|--------|
@@ -82,7 +82,7 @@ More coming soon..
 ## 🎨 CNNs
 ---
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -102,7 +102,7 @@ More coming soon..
 ---
 
 ## 🔥 Pytorch
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -117,7 +117,7 @@ More coming soon..
 
 
 ## 🧠RNNs
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -133,7 +133,7 @@ More coming soon..
 
 
 ## 📚LLM Architectures
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -164,7 +164,7 @@ More coming soon..
 
 
 ## Karpathy
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -178,7 +178,7 @@ More coming soon..
 
 ## How To Make LLM
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -189,7 +189,7 @@ More coming soon..
 
 ## Machine Learning
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -205,7 +205,7 @@ More coming soon..
 
 ## Computer vision
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -217,7 +217,7 @@ More coming soon..
 
 ## LLM Inference
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -225,7 +225,7 @@ More coming soon..
 
 ## Model Technical Paper
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -257,7 +257,7 @@ More coming soon..
 
 ## LLM-powered phone
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -269,7 +269,7 @@ More coming soon..
 
 
 ## Diffusion Model
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -279,7 +279,7 @@ More coming soon..
 | 4 | Playlist to learn Diffusion models |[Link](https://youtube.com/playlist?list=PLBoQnSflObcnYM35qBaDFQjaJEh_5Wx-O&si=3WT-F0q6hO2OpyNE)|
 
 ## NLP
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -290,14 +290,14 @@ More coming soon..
 | 5 | Excited to teach Advanced NLP at CMU this semester |[Link](https://youtube.com/playlist?list=PLqC25OT8ZpD3WxQ0FwWMGPS_BcWdcKyZy&si=RltV5AyxIUJh-fdV)|
 
 ## Backpropagation
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Learning Representations by Back-Propagating Errors (Rumelhart et al., 1986)| [Link](https://lnkd.in/gsN9XH3A) |
 
 ## Attention
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -306,7 +306,7 @@ More coming soon..
 
 ## BERT
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -314,7 +314,7 @@ More coming soon..
 
 ## Few-Shot 
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -323,7 +323,7 @@ More coming soon..
 
 ## Chain of Thought
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -331,7 +331,7 @@ More coming soon..
 
 ## Scaling Laws
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -339,7 +339,7 @@ More coming soon..
 
 ## DPO
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -347,7 +347,7 @@ More coming soon..
 
 ## LoRA
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -356,7 +356,7 @@ More coming soon..
 
 ## RAG
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -369,7 +369,7 @@ More coming soon..
 
 ## RLHF
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -381,7 +381,7 @@ More coming soon..
 
 ## Reinforcement Learning
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -390,7 +390,7 @@ More coming soon..
 | 3  |  comprehensive overview of Reinforcement Learning methods |[Link](https://arxiv.org/abs/2412.05265)|
 
 ## AI Youtube Channel
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -403,7 +403,7 @@ More coming soon..
 |7    | 𝗠𝗮𝘁𝘁 𝗪𝗼𝗹𝗳𝗲     | [Link](https://lnkd.in/d798mz9h) |
 
 ## AI Blog
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -416,7 +416,7 @@ More coming soon..
 |7    | 𝗛𝘂𝗴𝗴𝗶𝗻𝗴𝗳𝗮𝗰𝗲 𝗕𝗹𝗼𝗴   | [Link](https://lnkd.in/dTqzeHJ4) |
 
 ## Embedding
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -425,7 +425,7 @@ More coming soon..
 
 
 ## AI Math
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -433,14 +433,14 @@ More coming soon..
 | 2 | history of mathematics | [Link](https://www.math.uci.edu/~ndonalds/)|
 
 ## Neural Network
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  LLMs work by 3b1b | [Link](https://youtu.be/aircAruvnKk?si=tCDwjCWULpURXbBN) |
 
 ## Books
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -468,7 +468,7 @@ More coming soon..
 
 ## LLM Reinforcement Learning
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -485,7 +485,7 @@ More coming soon..
 
 ## Mixture of expert
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -495,7 +495,7 @@ More coming soon..
 
 ## Fine-tuning
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -505,7 +505,7 @@ More coming soon..
 
 ## Tensor
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -518,7 +518,7 @@ More coming soon..
 
 ## Supervised Learning
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -529,7 +529,7 @@ More coming soon..
 ## IISC Bangalore
 
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -540,7 +540,7 @@ More coming soon..
 
 ## AI Agent
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -551,7 +551,7 @@ More coming soon..
 
 ## Artificial Intelligence
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -562,7 +562,7 @@ More coming soon..
 
 ## Prompt Engineering
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -572,7 +572,7 @@ More coming soon..
 
 
 ## Statistical
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -586,7 +586,7 @@ More coming soon..
 
 ## Generative AI
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -597,7 +597,7 @@ More coming soon..
 ## Stanford University
 
 
-🔙 [Back to Categories](#ai-collection)
+🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
