@@ -13,7 +13,11 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 | 🔗 [Chain of Thought](#chain-of-thought)  | 🔍 [AI Math](#ai-math)                 | 🐭 [ML](#machine-learning)             | 🏆 [Deep Learning](#deep-learning) |
 | 🧩 [NLP](#nlp)                     | 🖼️ [Computer Vision](#computer-vision)  | 🎮 [Reinforcement Learning](#reinforcement-learning) | 🎨 [CNNs](#-cnns)                 |
 | 🔐 [DPO](#dpo)                     | 🔁 [RNNs](#rnns)                      | 🧾 [Image Classification](#-image-classification) | ⚡ [Model Technical Paper](#model-technical-paper) |
-| ⛳[Books](#books) | 🍂[LLM Reinforcement Learning](#llm-reinforcement-learning)| 🍃[Mixture of expert](#mixture-of-expert)
+| ⛳[Books](#books) | 🍂[LLM Reinforcement Learning](#llm-reinforcement-learning)| 🍃[Mixture of expert](#mixture-of-expert) | 🦒[Fine-tuning](#fine-tuning)| 
+| 🪰[Tensor](#tensor)| 🧞‍♀️[Supervised Learning](#supervised-learning)| 🐦‍🔥[IISC Bangalore](#iisc-bangalore)| 🧜‍♂️[AI Agent](#ai-agent)|
+| 🫀[Artificial Intelligence](#artificial-intelligence)| 🧘‍♂️[Prompt Engineering](#prompt-engineering)|🕷️[Statistical](#statistical) |🧬[Generative AI](#generative-ai)|
+
+
 
 
 ---
@@ -108,6 +112,9 @@ More coming soon..
 | 5  | PyTorch is dead. Long live JAX. - Blog                                   | [Link](https://neel04.github.io/my-website/blog/pytorch_rant/) |
 | 6  | Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond | [Link](https://pytorch.org/blog/inside-the-matrix/) |
 
+
+
+
 ## 🧠RNNs
 🔙 [Back to Categories](#ai-collection)
 
@@ -120,6 +127,9 @@ More coming soon..
 | 5  | RNNs and LSTMs - jurafsky, stanford                                      | [Link](https://web.stanford.edu/~jurafsky/slp3/8.pdf) |
 | 6  | The Unreasonable Effectiveness of Recurrent Neural Networks - Karpathy   | [Link](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) |
 | 7  | NLP from Scratch - PyTorch                                               | [Link](https://pytorch.org/tutorials/intermediate/nlp_from_scratch_index.html) |
+
+
+
 
 ## 📚LLM Architectures
 🔙 [Back to Categories](#ai-collection)
@@ -150,6 +160,8 @@ More coming soon..
 | 22 | Hands-On Large Language Models |[Link](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|
 
 
+
+
 ## Karpathy
 🔙 [Back to Categories](#ai-collection)
 
@@ -172,6 +184,8 @@ More coming soon..
 | 1  |   How to Scale Your Model by google      | [Link](https://jax-ml.github.io/scaling-book/) |
 |2   | The Ultra-Scale Playbook: Training LLMs on GPU Clusters by Huggingface |[Link](https://huggingface.co/spaces/nanotron/ultrascale-playbook)|
 
+
+
 ## Machine Learning
 
 🔙 [Back to Categories](#ai-collection)
@@ -186,7 +200,7 @@ More coming soon..
 | 6  |Pen and Paper Exercises in Machine Learning |[Link](https://arxiv.org/abs/2206.13446)|
 |  7 | Interpretable Machine Learning |[Link](https://christophm.github.io/interpretable-ml-book/)|
 | 8 | math for data science and machine learning  | [Link](https://www.cis.upenn.edu/~jean/math-deep.pdf)|
-|9 |
+|9 | Machine Learning: Probabilistic Perspective |[Link](https://drive.google.com/file/d/12RZS57QKL-jNdGajdmnmvuDnHrcFk76R/view)|
 
 ## Computer vision
 
@@ -196,6 +210,8 @@ More coming soon..
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  Deep Learning for computer vision, by Andrej Karpathy    | [Link](https://youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&si=9JudewH1OAUmhj1x) |
 |2  | Computer Vision & Deep Learning (freeCodeCamp)  | [Link](https://youtu.be/IA3WxTTPXqQ) |
+| 3 | Computer Vision with Prof. Tom Yeh    | [Link](https://youtube.com/playlist?list=PL0cq-CiC5QhutrhhsLLiybg2OehFOftI9&si=YXKiy5a_tdOWuR0z)|
+
  
 
 ## LLM Inference
@@ -246,6 +262,11 @@ More coming soon..
 |----|--------------------------------------------------------------------------|--------|
 | 1  | LLM-powered phone GUI agents in phone automation   | [Link](https://lnkd.in/ga3zuCu3) |
 
+
+
+
+
+
 ## Diffusion Model
 🔙 [Back to Categories](#ai-collection)
 
@@ -254,6 +275,7 @@ More coming soon..
 | 1  | Diffusion  Models from statistical first principles| [Link](https://lnkd.in/gUnVF4fe) |
 | 2  | implement Diffusion Models from scratch w/ Transformer |[Link](https://lnkd.in/grszCbUr)|
 | 3 |  Denoising Diffusion Probabilistic Models (Ho et al., 2020) |[Link]()|
+| 4 | Playlist to learn Diffusion models |[Link](https://youtube.com/playlist?list=PLBoQnSflObcnYM35qBaDFQjaJEh_5Wx-O&si=3WT-F0q6hO2OpyNE)|
 
 ## NLP
 🔙 [Back to Categories](#ai-collection)
@@ -341,7 +363,7 @@ More coming soon..
 | 2  | Advanced RAG: Precise Zero-Shot Dense Retrieval with HyDE |[Link](https://blog.lancedb.com/advanced-rag-precise-zero-shot-dense-retrieval-with-hyde-0946c54dfdcb/)|
 | 3  | Retrieval Augmented Generation (RAG) from Scratch — Tutorial For Dummies | [Link](https://zacharyhuang.substack.com/p/retrieval-augmented-generation-rag)|
 |  4 | Multi-modal RAG |[Link](https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb?ref=blog.langchain.dev)|
-
+| 5  |  Beginner's Guide to RAG by Tom Yeh |[Link](https://www.youtube.com/watch?v=PrYuqtT43BE) |
 
 
 ## RLHF
@@ -352,6 +374,10 @@ More coming soon..
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  Reinforcement Learning from Human Feedback by Nathan Lambert | [Link](https://rlhfbook.com/) |
 
+
+
+
+
 ## Reinforcement Learning
 
 🔙 [Back to Categories](#ai-collection)
@@ -360,6 +386,7 @@ More coming soon..
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  Berkeley CS 294: Deep Reinforcement Learning | [Link](https://lnkd.in/gxYEcpJ9) |
 | 2  | Spinning Up in Deep Reinforcement Learning - A free deep reinforcement learning course by OpenAI (2019) |[Link](https://lnkd.in/gd7kgQUZ)|
+| 3  |  comprehensive overview of Reinforcement Learning methods |[Link](https://arxiv.org/abs/2412.05265)|
 
 ## AI Youtube Channel
 🔙 [Back to Categories](#ai-collection)
@@ -394,12 +421,15 @@ More coming soon..
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  LLM Embedding Explained | [Link](https://lnkd.in/gAJY3XxX) |
 
+
+
 ## AI Math
 🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  Matrix Calulus for Machine Learning and Beyond  | [Link](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/lecture-notes/) |
+| 2 | history of mathematics | [Link](https://www.math.uci.edu/~ndonalds/)|
 
 ## Neural Network
 🔙 [Back to Categories](#ai-collection)
@@ -459,6 +489,109 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER| [Link](https://arxiv.org/pdf/1701.06538) |
+
+
+
+## Fine-tuning
+
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | finetune Phi-4 for free on Colab| [Link](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Phi_4-Conversational.ipynb) |
+| 2 |
+
+
+## Tensor
+
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Tensor Product Attention Is All You Need| [Link](https://tensorgi.github.io/T6/) |
+| 2 |
+
+
+
+
+
+## Supervised Learning
+
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Supervised Learning: A Comprehensive Guide| [Link](https://medium.com/@kodeinkgp/supervised-learning-a-comprehensive-guide-7032b34d5097) |
+
+
+
+## IISC Bangalore
+
+
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  started with AI from Basics to Advance as were taught to me at IISC Bangalore as part of Mtech AI | [Link](https://linktr.ee/Victor_explore) |
+
+
+
+
+## AI Agent
+
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Hugging Face Agents Course | [Link](https://github.com/huggingface/agents-course) |
+
+
+
+
+## Artificial Intelligence
+
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | lgorithms for AI & ML | [Link](https://web.stanford.edu/~mossr/pdf/alg4ai.pdf) |
+
+
+
+
+## Prompt Engineering
+
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | prompt engineering white paper | [Link](https://www.kaggle.com/whitepaper-prompt-engineering) |
+
+
+
+
+## Statistical
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Practical Statistics for data scientists | [Link](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202023%20-%20E/CSE%20ITAIDSML/Practical_Statistics_for_Data_Scientist_by_Peter_Bruce,_Andrew_Bruce.pdf) |
+| 2  | The Elements of Statistical Learning |[Link](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)|
+| 3   | Naked Statistics: stripping the dread from the data | [Link](https://pdfroom.com/books/naked-statistics-stripping-the-dread-from-the-data/or5WWyBP5qD) |
+|4   | How to Lie with Statistics |[Link](https://mronline.org/wp-content/uploads/2019/05/HowToLieWithStatistics.pdf)|
+| 5 | All of Statistics | [Link](https://lin-yu.me/books/all_of_statistics.pdf)|
+
+
+
+## Generative AI
+
+🔙 [Back to Categories](#ai-collection)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Microsoft launched the best course on Generative AI | [Link](https://microsoft.github.io/generative-ai-for-beginners/#/) |
+
+
 
 
 
