@@ -2,7 +2,7 @@
 
 This repo contains a category-wise collection of **AI  papers,blog,code,repo**.
 
-[![LinkedIn]()]()  
+[![Follow me on LinkedIn]()](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=bhoop-singh-gurjar-🇮🇳-3b41b41a9)  
 
 ---
 
