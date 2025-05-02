@@ -10,24 +10,24 @@ This repo contains a category-wise collection of **AI papers, blogs, code, and r
 
 | Category                            | Category                              | Category                            |
 |-------------------------------------|----------------------------------------|-------------------------------------|
-| 🧠 [Artificial Intelligence](#)     | 🧱 [Prompting Techniques](#)           | 🩸 [Small Language Models](#)       |
-| 🖼️ [Multi Modal LLMs](#)           | 🌐 [Multilingual LLMs](#)              | 🗂️ [Data Management](#)            |
-| 🔧 [Post Training](#)              | 🛠️ [LLM Fine Tuning](#)               | ⚖️ [LLM Inference](#)              |
-| 🧬 [LLM Architectures](#llm)         | 🧩 [LLM Abilities and Limitations](#)  | 🧠 [LLM Reasoning](#)              |
-| 🔗 [Chain of Thought](#)          | 🔍 [LLM RAG](#)                        | 🤖 [LLM Agents](#)                 |
-| 🧪 [Data Augmentation](#)         | 😵‍💫 [Hallucination](#)                | 🟢 [Fairness](#)                    |
-| 🧱 [Embedding Models](#)          | 🧾 [LLM Evaluation](#)                 | 🧬 [Synthetic Data Generation](#)   |
-| 🔴 [LLM Safety](#)                | 🏥 [LLMs for Specific Domains](#)      | ☑️ [Foundations Of AI](#)           |
-| 🔥 [Robotics & Control](#)        | 🧠 [Artificial General Intelligence](#)| 🔍 [Search Algorithms](#)           |
-| 🐭 [Machine Learning](#)          | 📘 [Supervised Learning](#)            | 📙 [Unsupervised Learning](#)       |
-| 📗 [Semi-supervised Learning](#)  | 📕 [Model Evaluation](#)               | 🏆 [Deep Learning](#deep-learning)  |
-| 🎨 [CNNs](#cnns)                       | 🔁 [RNNs](#rnn)                            | ✨ [Transformers](#)                |
-| 🔐 [Autoencoders](#)              | 🌀 [Generative AI](#)                   | 🗣️ [Natural Language Processing](#) |
-| 📝 [Text Classification](#)       | 🌍 [Machine Translation](#)            | ❓ [Question Answering](#)          |
-| 📄 [Summarization](#)             | 🖼️ [Computer Vision](#)                | 🧾 [Image Classification](#)        |
-| 🎯 [Object Detection](#)          | 🧩 [Segmentation](#)                   | 🕺 [Pose Estimation](#)             |
-| 🎮 [Reinforcement Learning](#)    | 🧠 [Policy Optimization](#)            | ⚡ [Q-Learning](#)                  |
-| 🤝 [Multi-Agent RL](#)            |   🌍[Pytorch ](#pytorch)                     |                                     |
+| 🧠 [Artificial Intelligence](#artificial-intelligence) | 🧱 [Prompting Techniques](#prompting-techniques) | 🩸 [Small Language Models](#small-language-models) |
+| 🖼️ [Multi Modal LLMs](#multi-modal-llms) | 🌐 [Multilingual LLMs](#multilingual-llms) | 🗂️ [Data Management](#data-management) |
+| 🔧 [Post Training](#post-training) | 🛠️ [LLM Fine Tuning](#llm-fine-tuning) | ⚖️ [LLM Inference](#llm-inference) |
+| 🧬 [LLM Architectures](#llm-architectures) | 🧩 [LLM Abilities and Limitations](#llm-abilities-and-limitations) | 🧠 [LLM Reasoning](#llm-reasoning) |
+| 🔗 [Chain of Thought](#chain-of-thought) | 🔍 [LLM RAG](#llm-rag) | 🤖 [LLM Agents](#llm-agents) |
+| 🧪 [Data Augmentation](#data-augmentation) | 😵‍💫 [Hallucination](#hallucination) | 🟢 [Fairness](#fairness) |
+| 🧱 [Embedding Models](#embedding-models) | 🧾 [LLM Evaluation](#llm-evaluation) | 🧬 [Synthetic Data Generation](#synthetic-data-generation) |
+| 🔴 [LLM Safety](#llm-safety) | 🏥 [LLMs for Specific Domains](#llms-for-specific-domains) | ☑️ [Foundations Of AI](#foundations-of-ai) |
+| 🔥 [Robotics & Control](#robotics-control) | 🧠 [Artificial General Intelligence](#artificial-general-intelligence) | 🔍 [Search Algorithms](#search-algorithms) |
+| 🐭 [Machine Learning](#machine-learning) | 📘 [Supervised Learning](#supervised-learning) | 📙 [Unsupervised Learning](#unsupervised-learning) |
+| 📗 [Semi-supervised Learning](#semi-supervised-learning) | 📕 [Model Evaluation](#model-evaluation) | 🏆 [Deep Learning](#-deep-learning) |
+| 🎨 [CNNs](#-cnns) | 🔁 [RNNs](#rnns) | ✨ [Transformers](#transformers) |
+| 🔐 [Autoencoders](#autoencoders) | 🌀 [Generative AI](#generative-ai) | 🗣️ [Natural Language Processing](#natural-language-processing) |
+| 📝 [Text Classification](#text-classification) | 🌍 [Machine Translation](#machine-translation) | ❓ [Question Answering](#question-answering) |
+| 📄 [Summarization](#summarization) | 🖼️ [Computer Vision](#computer-vision) | 🧾 [Image Classification](#image-classification) |
+| 🎯 [Object Detection](#object-detection) | 🧩 [Segmentation](#segmentation) | 🕺 [Pose Estimation](#pose-estimation) |
+| 🎮 [Reinforcement Learning](#reinforcement-learning) | 🧠 [Policy Optimization](#policy-optimization) | ⚡ [Q-Learning](#q-learning) |
+| 🤝 [Multi-Agent RL](#multi-agent-rl) | 🌍 [Pytorch](#pytorch) | |
 
 ---
 
@@ -93,8 +93,6 @@ This repo contains a category-wise collection of **AI papers, blogs, code, and r
 ---
 
 ## 🔥 PyTorch
----
-
 🔙 [Back to Categories](#-ai-world-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
@@ -105,10 +103,8 @@ This repo contains a category-wise collection of **AI papers, blogs, code, and r
 | 4  | MiniTorch                                                                | [Link](#) |
 | 5  | PyTorch is dead. Long live JAX. - Blog                                   | [Link](#) |
 | 6  | Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond | [Link](#) |
----
-## 🧠 RNN
----
 
+## 🧠 RNN
 🔙 [Back to Categories](#-ai-world-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
@@ -120,10 +116,8 @@ This repo contains a category-wise collection of **AI papers, blogs, code, and r
 | 5  | RNNs and LSTMs - jurafsky, stanford                                      | [Link](#) |
 | 6  | The Unreasonable Effectiveness of Recurrent Neural Networks - Karpathy   | [Link](#) |
 | 7  | NLP from Scratch - PyTorch                                               | [Link](#) |
----
-## 📚 LLM
----
 
+## 📚 LLM
 🔙 [Back to Categories](#-ai-world-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
@@ -145,8 +139,3 @@ This repo contains a category-wise collection of **AI papers, blogs, code, and r
 | 15 | LLM VISUALIZATION                                                        | [Link](#) |
 | 16 | nlp course - huggingface                                                 | [Link](#) |
 | 17 | Neural Networks: Zero to Hero                                            | [Link](#) |
----
-
-
-
-
