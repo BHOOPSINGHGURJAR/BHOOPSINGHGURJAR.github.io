@@ -1,4 +1,4 @@
-# 📚 AI Collection
+# 📚AI Collection
 
 This Web-page contains a category-wise collection of **AI course,Book,Playlist,papers, blogs, code, and repos**.
 
@@ -27,7 +27,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## 🏆 Deep Learning
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 ---
 
@@ -47,6 +47,8 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 ---
 
 ### 🎓 Deep Learning Courses
+
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 🎥 Course Name                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------------|--------|
@@ -81,7 +83,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 ## 🎨 CNNs
 ---
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -101,7 +103,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 ---
 
 ## 🔥 Pytorch
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -113,7 +115,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 | 6  | Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond | [Link](https://pytorch.org/blog/inside-the-matrix/) |
 
 ## 🧠 RNNs
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -126,7 +128,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 | 7  | NLP from Scratch - PyTorch                                               | [Link](https://pytorch.org/tutorials/intermediate/nlp_from_scratch_index.html) |
 
 ## 📚LLM Architectures
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -154,7 +156,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 
 ## Karpathy
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -168,7 +170,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## How To Make LLM
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -177,7 +179,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## Machine Learning
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -186,7 +188,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## Computer vision
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -196,7 +198,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## LLM Inference
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -204,7 +206,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## Model Technical Paper
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -213,14 +215,14 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## LLM-powered phone
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | LLM-powered phone GUI agents in phone automation   | [Link](https://lnkd.in/ga3zuCu3) |
 
 ## Diffusion Model
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -229,21 +231,21 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 | 3 |  Denoising Diffusion Probabilistic Models (Ho et al., 2020) |[Link]()|
 
 ## NLP
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗦𝗰𝗿𝗮𝘁𝗰𝗵  Stanford University 𝗡𝗟𝗣| [Link](https://lnkd.in/dShKKD2k) |
 
 ## Backpropagation
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Learning Representations by Back-Propagating Errors (Rumelhart et al., 1986)| [Link](https://lnkd.in/gsN9XH3A) |
 
 ## Attention
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -252,7 +254,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## BERT
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -260,7 +262,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## Few-Shot 
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -269,7 +271,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## Chain of Thought
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -277,7 +279,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## Scaling Laws
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -285,7 +287,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## DPO
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -293,7 +295,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## LoRA
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -302,7 +304,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## RAG
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -311,7 +313,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## RLHF
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -319,7 +321,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 
 ## Reinforcement Learning
 
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -327,7 +329,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 | 2  | Spinning Up in Deep Reinforcement Learning - A free deep reinforcement learning course by OpenAI (2019) |[Link](https://lnkd.in/gd7kgQUZ)|
 
 ## AI Youtube Channel
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -340,7 +342,7 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 |7    | 𝗠𝗮𝘁𝘁 𝗪𝗼𝗹𝗳𝗲     | [Link](https://lnkd.in/d798mz9h) |
 
 ## AI Blog
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
@@ -353,21 +355,21 @@ This Web-page contains a category-wise collection of **AI course,Book,Playlist,p
 |7    | 𝗛𝘂𝗴𝗴𝗶𝗻𝗴𝗳𝗮𝗰𝗲 𝗕𝗹𝗼𝗴   | [Link](https://lnkd.in/dTqzeHJ4) |
 
 ## Embedding
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  LLM Embedding Explained | [Link](https://lnkd.in/gAJY3XxX) |
 
 ## AI Math
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  Matrix Calulus for Machine Learning and Beyond  | [Link](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/lecture-notes/) |
 
 ## Neural Network
-🔙 [Back to Categories](#-ai-world-collection)
+🔙 [Back to Categories](#ai-collection)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
