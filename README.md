@@ -146,6 +146,7 @@ More comming soon..
 |19 | Building an LLM from Scratch (Sebastian Raschka, 2024) | [Link](https://youtu.be/quh7z1q7-uc)|
 | 20 | General Audience Large Language Models (Andrej Karpathy, 2024) |[Link](https://youtu.be/zjkBMFhNj_g)|
 | 21 | Foundations of Large Language Models" by Tong Xiao and Jingbo Zhu |[Link](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/foundations-of-large-language-/2501.09223v1.pdf)|
+| 22 | Hands-On Large Language Models |[Link](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|
 
 
 ## Karpathy
@@ -177,6 +178,14 @@ More comming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Machine Learning Specialization (Coursera) |[Link](https://www.coursera.org/specializations/machine-learning-introduction) |
+| 2  | A Visual Introduction to Machine Learning |[Link](http://www.r2d3.us/)|
+| 3  | Visual explanations of core machine learning concepts | [Link](https://mlu-explain.github.io/)|
+| 4  |Papers & tech blogs by companies sharing their work on data science & machine learning in production. |[Link](https://github.com/eugeneyan/applied-ml)|
+| 5  | CS229: Machine Learning |[Link](https://cs229.stanford.edu/)|
+| 6  |Pen and Paper Exercises in Machine Learning |[Link](https://arxiv.org/abs/2206.13446)|
+|  7 | Interpretable Machine Learning |[Link](https://christophm.github.io/interpretable-ml-book/)|
+| 8 | math for data science and machine learning  | [Link](https://www.cis.upenn.edu/~jean/math-deep.pdf)|
+|9 |
 
 ## Computer vision
 
@@ -228,6 +237,10 @@ More comming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗦𝗰𝗿𝗮𝘁𝗰𝗵  Stanford University 𝗡𝗟𝗣| [Link](https://lnkd.in/dShKKD2k) |
+| 2  | NLP Demystified | [Link](https://www.nlpdemystified.org/course)|
+|3  | 1.5 Stemming, Lemmatization, Stopwords, POS Tagging |[Link](https://www.nlplanet.org/course-practical-nlp/01-intro-to-nlp/05-tokenization-stemming-lemmatization.html)|
+| 4 | A curated list of resources dedicated to Natural Language Processing (NLP) |[Link](https://github.com/keon/awesome-nlp)|
+| 5 | Excited to teach Advanced NLP at CMU this semester |[Link](https://youtube.com/playlist?list=PLqC25OT8ZpD3WxQ0FwWMGPS_BcWdcKyZy&si=RltV5AyxIUJh-fdV)|
 
 ## Backpropagation
 🔙 [Back to Categories](#ai-collection)
@@ -301,6 +314,10 @@ More comming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  Retrieval-Augmented Generation (Lewis et al., 2020) | [Link](https://lnkd.in/gp7y4zFu) |
+| 2  | Advanced RAG: Precise Zero-Shot Dense Retrieval with HyDE |[Link](https://blog.lancedb.com/advanced-rag-precise-zero-shot-dense-retrieval-with-hyde-0946c54dfdcb/)|
+| 3  | Retrieval Augmented Generation (RAG) from Scratch — Tutorial For Dummies | [Link](https://zacharyhuang.substack.com/p/retrieval-augmented-generation-rag)|
+|  4 | Multi-modal RAG |[Link](https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb?ref=blog.langchain.dev)|
+
 
 
 ## RLHF
