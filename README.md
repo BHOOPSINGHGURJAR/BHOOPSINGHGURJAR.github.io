@@ -37,6 +37,8 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 |😻[Embedding](#embedding)                           |🐷[Neural Network](#neural-network)               |🦄[AGI](#agi) |
 |🐘[AI beat Human](#ai-beat-human)             | 🐪[Vision Transformer](#vision-transformer)    |🦍[History](#history)|
 |🦓 [AI Learning Guide](#ai-learning-guide)    | 🦖[Roadmap](#roadmap)           |  🐈[Interview](#interview) |
+| 🫎[UC Berkeley University](#uc-berkeley-university) |🐲[LLM alignment](#llm-alignment)| 🐕[Reward Modeling](#reward-modeling)|
+| 🐫[LLM preference](#llm-preference)| 🫏[LLM Reasoning](#llm-reasoning)|
 
 
 
@@ -308,6 +310,15 @@ More coming soon..
 
 
 
+## LLM Reasoning
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Understanding Reasoning LLMs by Sebastian Raschka   | [Link](https://www.linkedin.com/pulse/understanding-reasoning-llms-sebastian-raschka-phd-1tshc/) |
+
+
+
 
 
 
@@ -383,12 +394,41 @@ More coming soon..
 | 4 | A curated list of resources dedicated to Natural Language Processing (NLP) |[Link](https://github.com/keon/awesome-nlp)|
 | 5 | Excited to teach Advanced NLP at CMU this semester |[Link](https://youtube.com/playlist?list=PLqC25OT8ZpD3WxQ0FwWMGPS_BcWdcKyZy&si=RltV5AyxIUJh-fdV)|
 
+
+
+
+
+
 ## Backpropagation
 🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Learning Representations by Back-Propagating Errors (Rumelhart et al., 1986)| [Link](https://lnkd.in/gsN9XH3A) |
+
+
+
+## Reward Modeling
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Reward Modeling Part 1: Bradley-Terry Model | [Link](https://rlhflow.github.io/posts/2024-03-23-bradley-terry-reward-model/) |
+| 2  | An interpretable reward modeling approach |[Link](https://rlhflow.github.io/posts/2024-05-29-multi-objective-reward-modeling/)|
+
+
+## LLM preference
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Interpreting Language Model Preferences Through the Lens of Decision Trees| [Link](https://rlhflow.github.io/posts/2025-01-22-decision-tree-reward-model/) |
+
+
+
+
 
 
 
@@ -403,6 +443,11 @@ More coming soon..
 | 1  | Attention Is All You Need (Vaswani et al., 2017) | [Link](https://lnkd.in/gXUccydp) |
 | 2  | Implement Flash Attention Backend in SGLang - Basics and KV Cache(2025) |[Link](https://hebiao064.github.io/fa3-attn-backend-basic)|
 
+
+
+
+
+
 ## BERT
 
 🔙 [Back to Categories](#quick-links)
@@ -410,6 +455,20 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | BERT: Pre-training of Deep Bidirectional Transformers (Devlin et al., 2018) | [Link](https://lnkd.in/gGjmS5aD) |
+
+
+
+## LLM alignment
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Alignment Guidebook | [Link](https://rlhflow.github.io/posts/2024-03-26-alignment-guidebook/) |
+
+
+
+
+
 
 ## Few-Shot 
 
@@ -456,6 +515,7 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | When ChatGPT Broke an Entire Field: An Oral History(2025) | [Link](https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/) |
+| 2  | From Large Language Models to Reasoning Language Models - Three Eras in The Age of Computation. |[Link](https://youtu.be/NFwZi94S8qc?si=_ucrz4YEvr4_fPzN)|
 
 
 
@@ -615,6 +675,25 @@ More coming soon..
 | 1  |  OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER| [Link](https://arxiv.org/pdf/1701.06538) |
 
 
+## UC Berkeley University
+
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Large Language Model Agents ,(Fall 2024)| [Link](https://llmagents-learning.org/f24) |
+| 2  |  Advanced Large Language Model Agents(spring 2025) |[Link](https://llmagents-learning.org/sp25)|
+| 3  | CS 294-131: Special Topics in Deep Learning Fall, 2016 |[Link](https://berkeley-deep-learning.github.io/cs294-dl-f16/)|
+| 4  |CS 294-131: Special Topics in Deep Learning Spring 2017 |[Link](https://berkeley-deep-learning.github.io/cs294-131-s17/)|
+| 5 | CS 294-131: Special Topics in Deep Learning Fall 2017 |[Link](https://berkeley-deep-learning.github.io/cs294-131-f17/)|
+|6 | CS 294-131: Special Topics in Deep Learning Spring 2018 |[Link](https://berkeley-deep-learning.github.io/cs294-131-s18/)|
+|  7 | CS 294-131: Trustworthy Deep Learning (Special Topics in Deep Learning) Spring 2019| [Link](https://berkeley-deep-learning.github.io/cs294-131-s19/)|
+|  8 | CS294/194-196: Responsible GenAI and Decentralized Intelligence Fall 2023 |[Link](https://rdi.berkeley.edu/responsible-genai/f23)|
+| 9 | CS294-267/CS194-267 Understanding Large Language Models: Foundations and Safety Spring 24|[Link](https://rdi.berkeley.edu/understanding_llms/s24)|
+
+
+
 
 ## Fine-tuning
 
@@ -669,6 +748,8 @@ More coming soon..
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Hugging Face Agents Course | [Link](https://github.com/huggingface/agents-course) |
 | 2   | Agents  by Chip Huyen             |[Link](https://huyenchip.com/2025/01/07/agents.html)|
+| 3  |  Large Language Model Agents MOOC, Fall 2024|[Link](https://llmagents-learning.org/f24)|
+| 4  | Advanced Large Language Model Agents MOOC, Spring 2025 |[Link](https://llmagents-learning.org/sp25)|
 
 
 
