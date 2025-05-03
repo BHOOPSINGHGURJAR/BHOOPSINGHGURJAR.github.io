@@ -28,7 +28,19 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 |🍃[Mixture of expert](#mixture-of-expert)        | 🦒[Fine-tuning](#fine-tuning)              | 🪰[Tensor](#tensor)|
 |🧞‍♀️[Supervised Learning](#supervised-learning)    | 🐦‍🔥[IISC Bangalore](#iisc-bangalore)        | 🧜‍♂️[AI Agent](#ai-agent)|
 |🫀[Artificial Intelligence](#artificial-intelligence) |🧘‍♂️[Prompt Engineering](#prompt-engineering)      |🕷️[Statistical](#statistical) |
-|🧬[Generative AI](#generative-ai)                   |🎡[Stanford University](#stanford-university)    |
+|🧬[Generative AI](#generative-ai)                   |🎡[Stanford University](#stanford-university)    |🦐[How To Make LLM](#how-to-make-llm)|
+|🐍[Pytorch](#pytorch)                               |🐣[Karpathy](#karpathy)                          |🕊️[How To Make LLM](#how-to-make-llm)|
+|🪶[LLM Inference](#llm-inference)                   |🦭[LLM-powered phone](#llm-powered-phone)        |🦟[Diffusion Model](#diffusion-model) |
+|🪢[Backpropagation](#backpropagation)               |📀[Attention](#attention)                        |🧚‍♂️[BERT](#bert)                      |
+|🦴[Few-Shot](#few-shot)                             |👩‍🚀[Scaling Laws](#scaling-laws)                  |🐿️[LoRA](#lora)                      |
+|🦇[RAG](#rag)                                       |🐺[AI Youtube Channel](#ai-youtube-channel)       |🫏[AI Blog](#ai-blog)               |
+|😻[Embedding](#embedding)                           |🐷[Neural Network](#neural-network)               |
+
+
+
+
+
+
 
 
 
@@ -113,7 +125,7 @@ More coming soon..
 
 ---
 
-## 🔥 Pytorch
+## 🔥Pytorch
 🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
