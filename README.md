@@ -34,7 +34,8 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 |🪢[Backpropagation](#backpropagation)               |📀[Attention](#attention)                        |🧚‍♂️[BERT](#bert)                      |
 |🦴[Few-Shot](#few-shot)                             |👩‍🚀[Scaling Laws](#scaling-laws)                  |🐿️[LoRA](#lora)                      |
 |🦇[RAG](#rag)                                       |🐺[AI Youtube Channel](#ai-youtube-channel)       |🫏[AI Blog](#ai-blog)               |
-|😻[Embedding](#embedding)                           |🐷[Neural Network](#neural-network)               |
+|😻[Embedding](#embedding)                           |🐷[Neural Network](#neural-network)               |🦄[AGI](#agi) |
+|🐘[AI beat Human](#ai-beat-human)                    | 🐪[Vision Transformer](#vision-transformer)      |
 
 
 
@@ -200,6 +201,9 @@ More coming soon..
 |6 | Github |[Link](https://github.com/karpathy) |
 
 
+
+
+
 ## How To Make LLM
 
 🔙 [Back to Categories](#quick-links)
@@ -208,6 +212,7 @@ More coming soon..
 |----|--------------------------------------------------------------------------|--------|
 | 1  |   How to Scale Your Model by google      | [Link](https://jax-ml.github.io/scaling-book/) |
 |2   | The Ultra-Scale Playbook: Training LLMs on GPU Clusters by Huggingface |[Link](https://huggingface.co/spaces/nanotron/ultrascale-playbook)|
+| 3  | Tiny LLM - LLM Serving in a Week      |[Link](https://skyzh.github.io/tiny-llm/preface.html) |
 
 
 
@@ -247,6 +252,38 @@ More coming soon..
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  How to build an LLM inference engine using C++ and CUDA from scratch without libraries   | [Link](https://andrewkchan.dev/posts/yalm.html) |
 
+
+
+
+
+## Vision Transformer
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Vision Transformers Need Registers(2024)   | [Link](https://arxiv.org/abs/2309.16588) |
+
+
+
+
+
+
+
+## AI beat Human
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  O3 beats a master-level GeoGuessr player, even with fake EXIF data   | [Link](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master) |
+
+
+
+
+
+
+
+
 ## Model Technical Paper
 
 🔙 [Back to Categories](#quick-links)
@@ -277,6 +314,10 @@ More coming soon..
 | 22 | Qwen2 Technical Report(2024) | [Link](https://arxiv.org/pdf/2407.10671)|
 | 23 |  Qwen2.5 Technical Report(2024) | [Link](https://arxiv.org/pdf/2412.15115)|
 | 24 | Qwen2.5-Omni Technical Report Multimodel (2025) | [Link](https://arxiv.org/pdf/2503.20215) |
+| 25 | Qwen3: Think Deeper, Act Faster (2025)          | [Link](https://qwenlm.github.io/blog/qwen3/)|
+| 26 |  Phi-4-reasoning Technical Report (2025)        |[Link](https://arxiv.org/abs/2504.21318)|
+| 27  | Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math (2025)|[Link](https://arxiv.org/pdf/2504.21233) |
+
 
 
 ## LLM-powered phone
@@ -320,13 +361,18 @@ More coming soon..
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Learning Representations by Back-Propagating Errors (Rumelhart et al., 1986)| [Link](https://lnkd.in/gsN9XH3A) |
 
+
+
+
+
+
 ## Attention
 🔙 [Back to Categories](#quick-links)
 
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Attention Is All You Need (Vaswani et al., 2017) | [Link](https://lnkd.in/gXUccydp) |
-
+| 2  | Implement Flash Attention Backend in SGLang - Basics and KV Cache(2025) |[Link](https://hebiao064.github.io/fa3-attn-backend-basic)|
 
 ## BERT
 
@@ -360,6 +406,19 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Scaling Laws for Neural Language Models (Kaplan et al., 2020)| [Link](https://lnkd.in/g8Y7x68h) |
+
+
+
+
+## AGI
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | AGI is not a milestone | [Link](https://www.aisnakeoil.com/p/agi-is-not-a-milestone) |
+
+
 
 ## DPO
 
