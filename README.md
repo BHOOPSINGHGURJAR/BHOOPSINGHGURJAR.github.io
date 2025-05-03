@@ -32,10 +32,11 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 |🐍[Pytorch](#pytorch)                               |🐣[Karpathy](#karpathy)                          |🕊️[How To Make LLM](#how-to-make-llm)|
 |🪶[LLM Inference](#llm-inference)                   |🦭[LLM-powered phone](#llm-powered-phone)        |🦟[Diffusion Model](#diffusion-model) |
 |🪢[Backpropagation](#backpropagation)               |📀[Attention](#attention)                        |🧚‍♂️[BERT](#bert)                      |
-|🦴[Few-Shot](#few-shot)                             |👩‍🚀[Scaling Laws](#scaling-laws)                  |🐿️[LoRA](#lora)                      |
-|🦇[RAG](#rag)                                       |🐺[AI Youtube Channel](#ai-youtube-channel)       |🫏[AI Blog](#ai-blog)               |
+|🦴[Few-Shot](#few-shot)                             |👩‍🚀[Scaling Laws](#scaling-laws)             |🐿️[LoRA](#lora) |
+|🦇[RAG](#rag)                 |🐺[AI Youtube Channel](#ai-youtube-channel)       |🫏[AI Blog](#ai-blog)       |
 |😻[Embedding](#embedding)                           |🐷[Neural Network](#neural-network)               |🦄[AGI](#agi) |
-|🐘[AI beat Human](#ai-beat-human)                    | 🐪[Vision Transformer](#vision-transformer)      |
+|🐘[AI beat Human](#ai-beat-human)             | 🐪[Vision Transformer](#vision-transformer)    |🦍[History](#history)|
+|🦓 [AI Learning Guide](#ai-learning-guide)    | 🦖[Roadmap](#roadmap)           |  🐈[Interview](#interview) |
 
 
 
@@ -253,6 +254,15 @@ More coming soon..
 | 1  |  How to build an LLM inference engine using C++ and CUDA from scratch without libraries   | [Link](https://andrewkchan.dev/posts/yalm.html) |
 
 
+## AI Learning Guide
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | A survivor's guide to Artificial Intelligence courses at Stanford (Updated Feb 2020)| [Link](https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html) |
+
+
+
 
 
 
@@ -262,6 +272,25 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  Vision Transformers Need Registers(2024)   | [Link](https://arxiv.org/abs/2309.16588) |
+
+
+
+## Roadmap
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | MLOps guide  | [Link](https://huyenchip.com/mlops/) |
+
+
+
+## Interview
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |Introduction to Machine Learning Interviews Book  | [Link](https://huyenchip.com/ml-interviews-book/) |
+
 
 
 
@@ -420,6 +449,16 @@ More coming soon..
 
 
 
+## History
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | When ChatGPT Broke an Entire Field: An Oral History(2025) | [Link](https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/) |
+
+
+
 ## DPO
 
 🔙 [Back to Categories](#quick-links)
@@ -457,6 +496,7 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  Reinforcement Learning from Human Feedback by Nathan Lambert | [Link](https://rlhfbook.com/) |
+| 2  | RLHF: Reinforcement Learning from Human Feedback by Chip Huyen |[Link](https://huyenchip.com/2023/05/02/rlhf.html) |
 
 
 
@@ -628,6 +668,7 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Hugging Face Agents Course | [Link](https://github.com/huggingface/agents-course) |
+| 2   | Agents  by Chip Huyen             |[Link](https://huyenchip.com/2025/01/07/agents.html)|
 
 
 
