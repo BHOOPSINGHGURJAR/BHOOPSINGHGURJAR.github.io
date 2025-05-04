@@ -39,7 +39,7 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 |🦓 [AI Learning Guide](#ai-learning-guide)    | 🦖[Roadmap](#roadmap)           |  🐈[Interview](#interview) |
 | 🫎[UC Berkeley University](#uc-berkeley-university) |🐲[LLM alignment](#llm-alignment)| 🐕[Reward Modeling](#reward-modeling)|
 | 🐫[LLM preference](#llm-preference)| 🫏[LLM Reasoning](#llm-reasoning)| 🐃[Positional Encoding](#positional-encoding)|
-|🐸[Database](#database)| 🪼[Chunking](#chunking)|
+|🐸[Database](#database)| 🪼[Chunking](#chunking)| 🦨[Top AI Papers of the Week](#top-ai-papers-of-the-week)|
 
 
 
@@ -890,6 +890,17 @@ More coming soon..
 | 13 | CS236: Deep Generative Models  | [Link](https://deepgenerativemodels.github.io/)
 | 14 | EE263: Introduction to Linear Dynamical Systems | [Link](https://ee263.stanford.edu/) |
 | 15 | CS336: Robot Perception and Decision-Making  | [Link](https://stanford-cs336.github.io/spring2025/) |
+
+
+## Top AI Papers of the Week
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | Week            |
+|----|--------------------------------------------------------------------------|-----------------|
+| 1  | 1. [Phi-4-Mini-Reasoning ](https://arxiv.org/abs/2504.21233)   
+2. [ Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413)
+                                                                                 |(April 28 - May 4)|
 
 
 
