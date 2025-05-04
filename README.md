@@ -898,9 +898,7 @@ More coming soon..
 
 | #  | 📄 Title                                                                 | Week            |
 |----|--------------------------------------------------------------------------|-----------------|
-| 1  | 1. [Phi-4-Mini-Reasoning ](https://arxiv.org/abs/2504.21233)   
-2. [ Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413)
-                                                                                 |(April 28 - May 4)|
+| 1  | 1. [Phi-4-Mini-Reasoning ](https://arxiv.org/abs/2504.21233)   2. [ Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) |(April 28 - May 4)|
 
 
 
