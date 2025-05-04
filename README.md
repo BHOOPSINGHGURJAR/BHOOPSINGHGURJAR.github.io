@@ -38,7 +38,9 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 |🐘[AI beat Human](#ai-beat-human)             | 🐪[Vision Transformer](#vision-transformer)    |🦍[History](#history)|
 |🦓 [AI Learning Guide](#ai-learning-guide)    | 🦖[Roadmap](#roadmap)           |  🐈[Interview](#interview) |
 | 🫎[UC Berkeley University](#uc-berkeley-university) |🐲[LLM alignment](#llm-alignment)| 🐕[Reward Modeling](#reward-modeling)|
-| 🐫[LLM preference](#llm-preference)| 🫏[LLM Reasoning](#llm-reasoning)|
+| 🐫[LLM preference](#llm-preference)| 🫏[LLM Reasoning](#llm-reasoning)| 🐃[Positional Encoding](#positional-encoding)|
+|🐸[Database](#database)| 🪼[Chunking](#chunking)|
+
 
 
 
@@ -187,6 +189,7 @@ More coming soon..
 | 20 | General Audience Large Language Models (Andrej Karpathy, 2024) |[Link](https://youtu.be/zjkBMFhNj_g)|
 | 21 | Foundations of Large Language Models" by Tong Xiao and Jingbo Zhu |[Link](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/foundations-of-large-language-/2501.09223v1.pdf)|
 | 22 | Hands-On Large Language Models |[Link](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)|
+| 23  | The Illustrated Transformer |[Link](https://jalammar.github.io/illustrated-transformer/)|
 
 
 
@@ -234,6 +237,23 @@ More coming soon..
 |  7 | Interpretable Machine Learning |[Link](https://christophm.github.io/interpretable-ml-book/)|
 | 8 | math for data science and machine learning  | [Link](https://www.cis.upenn.edu/~jean/math-deep.pdf)|
 |9 | Machine Learning: Probabilistic Perspective |[Link](https://drive.google.com/file/d/12RZS57QKL-jNdGajdmnmvuDnHrcFk76R/view)|
+| 10 | XGBOOSTING |[Link](https://xgboosting.com/)|
+
+
+
+
+## Machine Learning related blog
+🔙 [Back to Categories](#quick-links)
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | What’s Really Going On in Machine Learning? Some Minimal Models|[Link](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/) |
+
+
+
+
+
+
+
 
 ## Computer vision
 
@@ -244,6 +264,8 @@ More coming soon..
 | 1  |  Deep Learning for computer vision, by Andrej Karpathy    | [Link](https://youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&si=9JudewH1OAUmhj1x) |
 |2  | Computer Vision & Deep Learning (freeCodeCamp)  | [Link](https://youtu.be/IA3WxTTPXqQ) |
 | 3 | Computer Vision with Prof. Tom Yeh    | [Link](https://youtube.com/playlist?list=PL0cq-CiC5QhutrhhsLLiybg2OehFOftI9&si=YXKiy5a_tdOWuR0z)|
+| 4 |  Computer vision for dummies |[Link](https://www.visiondummy.com/)|
+| 5 | Training CLIP Model from Scratch for an Fashion Image Retrieval App |[Link](https://learnopencv.com/clip-model/)|
 
  
 
@@ -318,6 +340,15 @@ More coming soon..
 | 1  |  Understanding Reasoning LLMs by Sebastian Raschka   | [Link](https://www.linkedin.com/pulse/understanding-reasoning-llms-sebastian-raschka-phd-1tshc/) |
 
 
+## Database
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Relational Databases vs Vector Databases  | [Link](https://zilliz.com/blog/relational-databases-vs-vector-databases) |
+
+
 
 
 
@@ -383,6 +414,8 @@ More coming soon..
 | 3 |  Denoising Diffusion Probabilistic Models (Ho et al., 2020) |[Link]()|
 | 4 | Playlist to learn Diffusion models |[Link](https://youtube.com/playlist?list=PLBoQnSflObcnYM35qBaDFQjaJEh_5Wx-O&si=3WT-F0q6hO2OpyNE)|
 
+
+
 ## NLP
 🔙 [Back to Categories](#quick-links)
 
@@ -429,6 +462,17 @@ More coming soon..
 
 
 
+## Positional Encoding
+
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Linear Relationships in the Transformer’s Positional Encoding| [Link](https://blog.timodenk.com/linear-relationships-in-the-transformers-positional-encoding/) |
+| 2  | Transformer Architecture: The Positional Encoding |[Link](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)|
+
+
 
 
 
@@ -442,6 +486,7 @@ More coming soon..
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Attention Is All You Need (Vaswani et al., 2017) | [Link](https://lnkd.in/gXUccydp) |
 | 2  | Implement Flash Attention Backend in SGLang - Basics and KV Cache(2025) |[Link](https://hebiao064.github.io/fa3-attn-backend-basic)|
+| 3  | Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) |[Link](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)|
 
 
 
@@ -455,6 +500,16 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | BERT: Pre-training of Deep Bidirectional Transformers (Devlin et al., 2018) | [Link](https://lnkd.in/gGjmS5aD) |
+
+
+
+## Chunking
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Chunking Strategies for LLM Applications(2023) | [Link](https://www.pinecone.io/learn/chunking-strategies/#Chunking-methods) |
 
 
 
@@ -547,6 +602,8 @@ More coming soon..
 | 3  | Retrieval Augmented Generation (RAG) from Scratch — Tutorial For Dummies | [Link](https://zacharyhuang.substack.com/p/retrieval-augmented-generation-rag)|
 |  4 | Multi-modal RAG |[Link](https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb?ref=blog.langchain.dev)|
 | 5  |  Beginner's Guide to RAG by Tom Yeh |[Link](https://www.youtube.com/watch?v=PrYuqtT43BE) |
+| 6  | Retrieval Augmented Generation ,Ragas|[Link](https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/)|
+| 7 | Simplest Method to improve RAG pipeline: Re-Ranking (2023)|[link](https://blog.lancedb.com/simplest-method-to-improve-rag-pipeline-re-ranking-cf6eaec6d544/)|
 
 
 ## RLHF
@@ -597,6 +654,8 @@ More coming soon..
 |  5  | 𝗔𝗻𝘁𝗵𝗿𝗼𝗽𝗶𝗰 𝗕𝗹𝗼𝗴|[Link](https://lnkd.in/dS-P3ktx)|
 | 6   | 𝗕𝗲𝗿𝗸𝗲𝗹𝗲𝘆 𝗕𝗮𝗶𝗿      |[Link](https://bair.berkeley.edu/)|
 |7    | 𝗛𝘂𝗴𝗴𝗶𝗻𝗴𝗳𝗮𝗰𝗲 𝗕𝗹𝗼𝗴   | [Link](https://lnkd.in/dTqzeHJ4) |
+| 8    | google Research   |[Link](https://research.google/)|
+| 9  |  Mehmet Burak Sayıcı |[Link](https://mburaksayici.com/blog/)|
 
 ## Embedding
 🔙 [Back to Categories](#quick-links)
@@ -622,6 +681,9 @@ More coming soon..
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  LLMs work by 3b1b | [Link](https://youtu.be/aircAruvnKk?si=tCDwjCWULpURXbBN) |
 
+
+
+
 ## Books
 🔙 [Back to Categories](#quick-links)
 
@@ -646,7 +708,8 @@ More coming soon..
 | 17 | Think Stats, 2nd Edition_ Exploratory Data Analysis | [Link](https://github.com/bhoop70233/AI-Books/blob/main/Think%20Stats%2C%202nd%20Edition_%20Exploratory%20Data%20Analysis%20(%20PDFDrive%20).pdf)|
 |18 | kafka  the definitive guide|[Link](https://github.com/bhoop70233/AI-Books/blob/main/kafka_%20the%20definitive%20guide.pdf)|
 | 19 |practical synthetic data generation balancing privacy and the broad availability of data | [Link](https://github.com/bhoop70233/AI-Books/blob/main/practical-synthetic-data-generation-balancing-privacy-and-the-broad-availability-of-data-9781492072690-1492072699.pdf)|
-
+| 20 | Understanding Deep Learning |[Link](https://udlbook.github.io/udlbook/)|
+| 21 | Dive into Deep Learning   | [Link](https://d2l.ai/)|
 
 
 ## LLM Reinforcement Learning
@@ -695,6 +758,7 @@ More coming soon..
 
 
 
+
 ## Fine-tuning
 
 🔙 [Back to Categories](#quick-links)
@@ -702,7 +766,10 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | finetune Phi-4 for free on Colab| [Link](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Phi_4-Conversational.ipynb) |
-| 2 |
+| 2 | Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters | [Link](https://sebastianraschka.com/blog/2023/llm-finetuning-llama-adapter.html)|
+| 3 | Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation) |[Link](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)|
+| 4 | PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware|[Link](https://huggingface.co/blog/peft)|
+
 
 
 ## Tensor
@@ -712,7 +779,9 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  | Tensor Product Attention Is All You Need| [Link](https://tensorgi.github.io/T6/) |
-| 2 |
+
+
+
 
 
 
