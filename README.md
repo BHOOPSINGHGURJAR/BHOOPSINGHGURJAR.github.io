@@ -40,6 +40,7 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 | 🫎[UC Berkeley University](#uc-berkeley-university) |🐲[LLM alignment](#llm-alignment)| 🐕[Reward Modeling](#reward-modeling)|
 | 🐫[LLM preference](#llm-preference)| 🫏[LLM Reasoning](#llm-reasoning)| 🐃[Positional Encoding](#positional-encoding)|
 |🐸[Database](#database)| 🪼[Chunking](#chunking)| 🦨[Top AI Papers of the Week](#top-ai-papers-of-the-week)|
+|🦧[Topic Comparison](#topic-comparison)|
 
 
 
@@ -388,7 +389,10 @@ More coming soon..
 | 25 | Qwen3: Think Deeper, Act Faster (2025)          | [Link](https://qwenlm.github.io/blog/qwen3/)|
 | 26 |  Phi-4-reasoning Technical Report (2025)        |[Link](https://arxiv.org/abs/2504.21318)|
 | 27  | Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math (2025)|[Link](https://arxiv.org/pdf/2504.21233) |
+| 28  | OpenAI's GPT-3 Language Model: A Technical Overview (2020) |[link](https://lambda.ai/blog/demystifying-gpt-3)|
 
+
+OpenAI 
 
 
 ## LLM-powered phone
@@ -589,6 +593,15 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  LoRA: Low-Rank Adaptation (Hu et al., 2021) | [Link](https://lnkd.in/gK4W7YUh) |
+
+## Topic Comparison
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Fine-Tuning vs Retrieval Augmented Generation(2023) | [Link](https://www.vectara.com/blog/fine-tuning-vs-retrieval-augmented-generation) |
+| 2  |
 
 
 ## RAG
