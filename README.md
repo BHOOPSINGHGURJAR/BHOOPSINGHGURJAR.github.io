@@ -898,7 +898,7 @@ More coming soon..
 
 | #  | 📄 Title                                                                 | Week            |
 |----|--------------------------------------------------------------------------|-----------------|
-| 1  | 1. [Phi-4-Mini-Reasoning ](https://arxiv.org/abs/2504.21233)   2. [ Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) |(April 28 - May 4)|
+| 1  | 1. [Phi-4-Mini-Reasoning ](https://arxiv.org/abs/2504.21233)   2. [ Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) 3. [UniversalRAG](https://arxiv.org/abs/2504.20734) 4.[DeepSeek-Prover-V2](https://arxiv.org/abs/2504.21801) 5. [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio/blob/master/assets/kimia_report.pdf) 6. [MiMo-7B](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf) 7.[Advances and Challenges in Foundation Agents](https://www.linkedin.com/pulse/top-ai-papers-week-dair-ai-tcbfe/) 8.[MAGI](https://arxiv.org/abs/2504.18260) 9.[A Survey of Efficient LLM Inference Serving](https://arxiv.org/abs/2504.19720) 10. [LLM for Engineering](https://arxiv.org/abs/2504.19394)|(April 28 - May 4,2025)|
 
 
 
