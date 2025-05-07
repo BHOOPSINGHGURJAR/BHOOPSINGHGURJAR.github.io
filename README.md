@@ -243,11 +243,12 @@ More coming soon..
 
 
 
-## Machine Learning related blog
+## Machine Learning related blog  
 🔙 [Back to Categories](#quick-links)
-| #  | 📄 Title                                                                 | 🔗 Link |
-|----|--------------------------------------------------------------------------|--------|
-| 1  | What’s Really Going On in Machine Learning? Some Minimal Models|[Link](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/) |
+
+| #  | 📄 Title                                                                   | 🔗 Link                                                                                                                  |
+|----|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| 1  | What’s Really Going On in Machine Learning? Some Minimal Models           | [Link](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)       |
 
 
 
