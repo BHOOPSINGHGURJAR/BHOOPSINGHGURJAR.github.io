@@ -40,7 +40,7 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 | 🫎[UC Berkeley University](#uc-berkeley-university) |🐲[LLM alignment](#llm-alignment)| 🐕[Reward Modeling](#reward-modeling)|
 | 🐫[LLM preference](#llm-preference)| 🫏[LLM Reasoning](#llm-reasoning)| 🐃[Positional Encoding](#positional-encoding)|
 |🐸[Database](#database)| 🪼[Chunking](#chunking)| 🦨[Top AI Papers of the Week](#top-ai-papers-of-the-week)|
-|🦧[Topic Comparison](#topic-comparison)|
+|🦧[Topic Comparison](#topic-comparison)|💫[LLM from scratch](#llm-from-scratch)|
 
 
 
@@ -220,6 +220,15 @@ More coming soon..
 | 1  |   How to Scale Your Model by google      | [Link](https://jax-ml.github.io/scaling-book/) |
 |2   | The Ultra-Scale Playbook: Training LLMs on GPU Clusters by Huggingface |[Link](https://huggingface.co/spaces/nanotron/ultrascale-playbook)|
 | 3  | Tiny LLM - LLM Serving in a Week      |[Link](https://skyzh.github.io/tiny-llm/preface.html) |
+
+
+## LLM from scratch
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  Llama from scratch      | [Link](https://blog.briankitano.com/llama-from-scratch/) |
 
 
 
