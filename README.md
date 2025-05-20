@@ -40,7 +40,7 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 | 🫎[UC Berkeley University](#uc-berkeley-university) |🐲[LLM alignment](#llm-alignment)| 🐕[Reward Modeling](#reward-modeling)|
 | 🐫[LLM preference](#llm-preference)| 🫏[LLM Reasoning](#llm-reasoning)| 🐃[Positional Encoding](#positional-encoding)|
 |🐸[Database](#database)| 🪼[Chunking](#chunking)| 🦨[Top AI Papers of the Week](#top-ai-papers-of-the-week)|
-|🦧[Topic Comparison](#topic-comparison)|💫[LLM from scratch](#llm-from-scratch)|
+|🦧[Topic Comparison](#topic-comparison)|💫[LLM from scratch](#llm-from-scratch)|🐾[N8N](#n8n)|
 
 
 
@@ -287,6 +287,15 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  How to build an LLM inference engine using C++ and CUDA from scratch without libraries   | [Link](https://andrewkchan.dev/posts/yalm.html) |
+
+
+## N8N
+
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |  The only video you need to Master N8N + AI agents (For complete beginners)   | [Link](https://www.youtube.com/watch?v=uScURRX-Knc) |
 
 
 ## AI Learning Guide
