@@ -233,9 +233,12 @@ More coming soon..
 
 
 ## Agents Protocol
+
+🔙 [Back to Categories](#quick-links)
+
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
-| 1  | Model Context Protocol (MCP) Course by HuggingFace      | [Link](https://huggingface.co/learn/mcp-course/unit0/introduction) |
+| 1  |Model Context Protocol (MCP) Course by HuggingFace    |[Link](https://huggingface.co/learn/mcp-course/unit0/introduction) |
 
 
 
