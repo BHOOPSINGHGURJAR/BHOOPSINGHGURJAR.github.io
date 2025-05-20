@@ -41,6 +41,7 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 | 🐫[LLM preference](#llm-preference)| 🫏[LLM Reasoning](#llm-reasoning)| 🐃[Positional Encoding](#positional-encoding)|
 |🐸[Database](#database)| 🪼[Chunking](#chunking)| 🦨[Top AI Papers of the Week](#top-ai-papers-of-the-week)|
 |🦧[Topic Comparison](#topic-comparison)|💫[LLM from scratch](#llm-from-scratch)|🐾[N8N](#n8n)|
+|🐍[Agents Protocol](#agents-protocol)|
 
 
 
@@ -229,6 +230,13 @@ More coming soon..
 | #  | 📄 Title                                                                 | 🔗 Link |
 |----|--------------------------------------------------------------------------|--------|
 | 1  |  Llama from scratch      | [Link](https://blog.briankitano.com/llama-from-scratch/) |
+
+
+## Agents Protocol
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Model Context Protocol (MCP) Course by HuggingFace      | [Link](https://huggingface.co/learn/mcp-course/unit0/introduction) |
+
 
 
 
