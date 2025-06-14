@@ -157,6 +157,9 @@ More coming soon..
 | 2  | Programming Massively Parallel Processors(2019)         |[Link](https://www.youtube.com/watch?v=WJ0BAlaXFUc&list=PLRRuQYjFhpmspsME4LmLbuCG1VHbJmIcy)|
 |3   |Programming Massively Parallel Processors Book           |[Link](https://www.cse.iitd.ac.in/~rijurekha/col730_2022/cudabook.pdf)|
 | 4  | CUDA C++ Programming Guide                              |[Link](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)|
+| 5  | How GPU Computing Works | GTC 2021                      |[Link](https://www.youtube.com/watch?v=3l10o0DYJXg)|
+| 6  |GPU Programming: When, Why and How?                      |[Link](https://enccs.github.io/gpu-programming/)|
+| 7  | Making Deep Learning Go Brrrr From First Principles      |[Link](https://horace.io/brrr_intro.html)|
 
 
 
