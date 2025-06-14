@@ -41,7 +41,7 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 | 🐫[LLM preference](#llm-preference)| 🫏[LLM Reasoning](#llm-reasoning)| 🐃[Positional Encoding](#positional-encoding)|
 |🐸[Database](#database)| 🪼[Chunking](#chunking)| 🦨[Top AI Papers of the Week](#top-ai-papers-of-the-week)|
 |🦧[Topic Comparison](#topic-comparison)|💫[LLM from scratch](#llm-from-scratch)|🐾[N8N](#n8n)|
-|🐍[Agents Protocol](#agents-protocol)|
+|🐍[Agents Protocol](#agents-protocol)| 🤴[Programming Massively Parallel Processors](#programming-massively-parallel-processors)|
 
 
 
@@ -144,6 +144,17 @@ More coming soon..
 | 4  | MiniTorch                                                                | [Link](https://minitorch.github.io/) |
 | 5  | PyTorch is dead. Long live JAX. - Blog                                   | [Link](https://neel04.github.io/my-website/blog/pytorch_rant/) |
 | 6  | Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond | [Link](https://pytorch.org/blog/inside-the-matrix/) |
+
+
+
+
+## Programming Massively Parallel Processors
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | Programming Massively Parallel Processors(2021)         | [Link](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4) |
+
 
 
 
