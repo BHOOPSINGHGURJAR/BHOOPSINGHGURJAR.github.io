@@ -156,6 +156,7 @@ More coming soon..
 | 1  | Programming Massively Parallel Processors(2021)         | [Link](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4) |
 | 2  | Programming Massively Parallel Processors(2019)         |[Link](https://www.youtube.com/watch?v=WJ0BAlaXFUc&list=PLRRuQYjFhpmspsME4LmLbuCG1VHbJmIcy)|
 |3   |Programming Massively Parallel Processors Book           |[Link](https://www.cse.iitd.ac.in/~rijurekha/col730_2022/cudabook.pdf)|
+| 4  | CUDA C++ Programming Guide                              |[Link](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)|
 
 
 
