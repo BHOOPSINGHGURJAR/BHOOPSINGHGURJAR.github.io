@@ -41,7 +41,8 @@ This webpage offers a curated, category-wise collection of resources in **Artifi
 | 🐫[LLM preference](#llm-preference)| 🫏[LLM Reasoning](#llm-reasoning)| 🐃[Positional Encoding](#positional-encoding)|
 |🐸[Database](#database)| 🪼[Chunking](#chunking)| 🦨[Top AI Papers of the Week](#top-ai-papers-of-the-week)|
 |🦧[Topic Comparison](#topic-comparison)|💫[LLM from scratch](#llm-from-scratch)|🐾[N8N](#n8n)|
-|🐍[Agents Protocol](#agents-protocol)| 🤴[Programming Massively Parallel Processors](#programming-massively-parallel-processors)|
+|🐍[Agents Protocol](#agents-protocol)| 🤴[Programming Massively Parallel Processors](#programming-massively-parallel-processors)|🐍[Princeton University](#princeton-university)|
+|🐭[Important AI Paper List](#important-ai-paper-list)| ⛏️[Important AI Blog](#important-ai-blog)|
 
 
 
@@ -161,6 +162,44 @@ More coming soon..
 | 6  |GPU Programming: When, Why and How?                      |[Link](https://enccs.github.io/gpu-programming/)|
 | 7  | Making Deep Learning Go Brrrr From First Principles      |[Link](https://horace.io/brrr_intro.html)|
 
+## Princeton University
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |COS 484: Natural Language Processing Spring 2025         | [Link](https://princeton-nlp.github.io/cos484/) |
+
+
+## Important AI Blog
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  |FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention        | [Link](https://pytorch.org/blog/flexattention/) |
+| 2  |Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, the World’s Largest and Most Powerful Generative Language Model |[link](https://developer.nvidia.com/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/)|
+| 3  | Understanding GPU Memory 1: Visualizing All Allocations over Time  |[link](https://pytorch.org/blog/understanding-gpu-memory-1/)|
+| 4  |Visualize and understand GPU memory in PyTorch         |[link](https://huggingface.co/blog/train_memory)|
+| 5  | Data-Parallel Distributed Training of Deep Learning Models |[link](https://siboehm.com/articles/22/data-parallel-training)|
+|6   | Scaling Language Model Training to a Trillion Parameters Using Megatron  |[link](https://developer.nvidia.com/blog/scaling-language-model-training-to-a-trillion-parameters-using-megatron/#pipeline_parallelism)|
+| 7  |Bringing HPC Techniques to Deep Learning       |[link](https://andrew.gibiansky.com/blog/machine-learning/baidu-allreduce/)|
+| 8  |Ring Attention Explained               |[link](https://coconut-mode.com/posts/ring-attention/)|
+| 9 | Training your large model with DeepSpeed|[link](https://www.deepspeed.ai/tutorials/large-models-w-deepspeed/#understanding-performance-tradeoff-between-zero-and-3d-parallelism)|
+| 10 | Visualizing 6D Mesh Parallelism                 |[link](https://main-horse.github.io/posts/visualizing-6d/)|
+| 11 | Building Meta’s GenAI Infrastructure           |[link](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)|
+| 12 |100,000 H100 Clusters: Power, Network Topology, Ethernet vs InfiniBand, Reliability, Failures, Checkpointing|[link](https://semianalysis.com/2024/06/17/100000-h100-clusters-power-network/)|
+| 13 | gpu  |[link](https://modal.com/gpu-glossary/readme)|
+| 14  | Mixture of Experts Explained  |[link](https://huggingface.co/blog/moe)|
+| 15 | Go smol or go home  |[link](https://www.harmdevries.com/post/model-size-vs-compute-overhead/)|
+| 16 | In the long (context) run |[link](https://www.harmdevries.com/post/context-length/)|
+| 17 | Introducing Async Tensor Parallelism in PyTorch |[link](https://discuss.pytorch.org/t/distributed-w-torchtitan-introducing-async-tensor-parallelism-in-pytorch/209487)|
+| 18 | A guide to PyTorch's CUDA Caching Allocator |[link](https://zdevito.github.io/2022/08/04/cuda-caching-allocator.html)|
+| 19 | Transformer Math (Part 1) - Counting Model Parameters |[link](https://michaelwornow.net/2024/01/18/counting-params-in-transformer)|
+| 20| Activation Memory: A Deep Dive using PyTorch  |[link](https://www.determined.ai/blog/act-mem-2)|
+| 21 | Conference Talk 12: Slaying OOMs with PyTorch FSDP and torchao |[link](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-012/)|
+
+
+
+
 
 
 
@@ -226,6 +265,39 @@ More coming soon..
 |5 | EurekaLabsAI |[Link](https://github.com/EurekaLabsAI)|
 |6 | Github |[Link](https://github.com/karpathy) |
 
+
+
+## Important AI Paper List
+🔙 [Back to Categories](#quick-links)
+
+| #  | 📄 Title                                                                 | 🔗 Link |
+|----|--------------------------------------------------------------------------|--------|
+| 1  | FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness  | [Link](https://arxiv.org/pdf/2205.14135) |
+| 2  |MIXED PRECISION TRAINING                                                      |[Link](https://arxiv.org/pdf/1710.03740)|
+| 3  |FP8-LM: Training FP8 Large Language Models                                     |[Link](https://arxiv.org/pdf/2310.18313)|
+| 4  | Small-scale proxies for large-scale Transformer training instabilities         |[link](https://arxiv.org/pdf/2309.14322)|
+| 5  |BREADTH-FIRST PIPELINE PARALLELISM                                              |[Link](https://arxiv.org/pdf/2211.05953)|
+| 6  |DeepSeek-V3 Technical Report                                                     |[Link](https://arxiv.org/pdf/2412.19437)|
+| 7   | ZERO BUBBLE PIPELINE PARALLELISM                                               |[link](https://arxiv.org/pdf/2401.10241)|
+| 8   |Mixtral of Experts                                                              |[link](https://arxiv.org/pdf/2401.04088)|
+| 9  |Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity|[link](https://arxiv.org/pdf/2101.03961)|
+| 10 | A Survey on Mixture of Experts in Large Language Models                          |[Link](https://arxiv.org/pdf/2407.06204)|
+| 11  | GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding |[link](https://arxiv.org/pdf/2006.16668)|
+| 12  | An Empirical Model of Large-Batch Training                                      |[link](https://arxiv.org/pdf/1812.06162)|
+| 13  | Reducing Activation Recomputation in Large Transformer Models                    |[link](https://arxiv.org/pdf/2205.05198)|
+| 14  | Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism |[link](https://arxiv.org/abs/1909.08053)|
+| 15  |PaLM: Scaling Language Modeling with Pathways                                          |[link](https://arxiv.org/abs/2204.02311)|
+| 16  | Gemini: A Family of Highly Capable Multimodal Models                                  |[link](https://arxiv.org/abs/2312.11805)|
+| 17  |The Llama 3 Herd of Models                                                             |[Link](https://arxiv.org/abs/2407.21783)|
+| 18  | ZeRO: Memory Optimizations Toward Training Trillion Parameter Models                 |[link](https://arxiv.org/abs/1910.02054)|
+| 19  | PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel                     |[link](https://arxiv.org/abs/2304.11277)|
+| 20  |Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning    |[link](https://www.arxiv.org/abs/2408.14158)|
+| 21  |Fast Transformer Decoding: One Write-Head is All You Need                            |[link](https://arxiv.org/abs/1911.02150)|
+| 22  |GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints |[link](https://arxiv.org/abs/2305.13245)|
+| 23  |Domino: Eliminating Communication in LLM Training via Generic Tensor Slicing and Overlapping|[link](https://arxiv.org/pdf/2409.15241)|
+| 24  | Ring Attention with Blockwise Transformers for Near-Infinite Context                        |[link](https://arxiv.org/pdf/2310.01889)|
+| 25  |STRIPED ATTENTION:FASTER RING ATTENTION FOR CAUSAL TRANSFORMERS                               |[link](https://arxiv.org/pdf/2311.09431)|
+| 26|
 
 
 
